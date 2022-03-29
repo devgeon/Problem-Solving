@@ -17,9 +17,9 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 > ex) *BOJ-02557-HelloWorld.c*
 
 ## 문제 목록
-|출처|번호|제목|채점결과|소스코드|코드설명|
-|---|---|---|------|------|------|
-|||||||
+||출처|번호|제목|채점결과|소스코드|코드설명|
+|-|---|---|---|------|------|------|
+|1|BOJ|2557|Hello World!|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-IO/BOJ-02557-HelloWorld.c)|-|
 
 > \*채점결과: AC, WA, CE, TLE, RE, MLE, PE, OLE, UA  
 > \*소스코드와 코드설명은 해당 파일을 링크하며, 설명 파일이 없을 경우 "-"로 표기
