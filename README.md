@@ -19,6 +19,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|채점결과|소스코드|코드설명|
 |-|---|---|---|------|------|------|
+|2|BOJ|10171|고양이|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-IO/BOJ-10171-고양이.c)|-|
 |1|BOJ|2557|Hello World!|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-IO/BOJ-02557-HelloWorld.c)|-|
 
 > \*채점결과: AC, WA, CE, TLE, RE, MLE, PE, OLE, UA  
