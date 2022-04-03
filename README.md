@@ -19,6 +19,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|채점결과|소스코드|코드설명|
 |-|---|---|---|------|------|------|
+|5|BOJ|18108|1998년생인 내가 태국에서는 2541년생?!|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Arithmetic-IO/BOJ-18108-서기불기연도변환.c)|-|
 |4|BOJ|10926|??!|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Arithmetic-IO/BOJ-10926.c)|-|
 |3|BOJ|10869|사칙연산|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Arithmetic-IO/BOJ-10869-사칙연산.c)|-|
 |2|BOJ|10171|고양이|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Arithmetic-IO/BOJ-10171-고양이.c)|-|
