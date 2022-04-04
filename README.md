@@ -19,6 +19,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|8|BOJ|1330|두 수 비교하기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01330-두수비교하기.c)|-|
 |7|BOJ|2588|곱셈|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02588-곱셈.c)|-|
 |6|BOJ|10430|나머지|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10430-나머지.c)|-|
 |5|BOJ|18108|1998년생인 내가 태국에서는 2541년생?!|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-18108-서기불기연도변환.c)|-|
