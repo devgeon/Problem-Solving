@@ -19,6 +19,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|13|BOJ|2525|오븐 시계|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02525-오븐시계.c)|-|
 |12|BOJ|2884|알람 시계|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02884-알람시계.c)|-|
 |11|BOJ|14681|사분면 고르기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-14681-사분면고르기.c)|-|
 |10|BOJ|2753|윤년|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02753-윤년.c)|-|
