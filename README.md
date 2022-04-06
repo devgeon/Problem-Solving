@@ -19,6 +19,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|11|BOJ|14681|사분면 고르기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-14681-사분면고르기.c)|-|
 |10|BOJ|2753|윤년|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02753-윤년.c)|-|
 |9|BOJ|9498|시험 성적|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-09498-시험성적.c)|-|
 |8|BOJ|1330|두 수 비교하기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01330-두수비교하기.c)|-|
