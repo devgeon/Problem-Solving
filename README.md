@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|19|BOJ|2741|N 찍기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02741-N찍기.c)|-|
 |18|BOJ|15552|빠른 A+B|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-15552-빠른입출력.py)|-|
 |17|BOJ|8393|합|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-08393-합.c)|-|
 |16|BOJ|10950|A+B-3|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10950.c)|-|
