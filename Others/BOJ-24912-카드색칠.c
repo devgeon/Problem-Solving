@@ -20,6 +20,9 @@
 // -> char배열에 공백 포함해서 출력값을 담아두거나, short배열에 숫자만 담아두고 출력하기
 //    (메모리 제한이 512MB이고, N이 최대 1,000,000이므로 배열에 모두 담아도 공간은 충분함)
 
+// 카드가 1장일 경우 정상적으로 동작하지 않음
+// → 해당 상황에 대한 예외 추가하기
+
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -33,6 +36,17 @@ int main()
 	char *result=0, *cur=0;
 	
 	scanf("%d", &n);
+	
+	if(n==1) {
+		scanf("%d", &card[1]);
+		if(card[1]!=0) {
+			printf("%d", card[1]);
+		} else {
+			printf("%d", getColor(0));
+		}
+		return 0;
+	}
+	
 	result = (char *) calloc(sizeof(char), 2*n);
 	if(result==NULL) {
 		printf("malloc failed");
