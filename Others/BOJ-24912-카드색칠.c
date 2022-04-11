@@ -30,20 +30,27 @@ int main()
 {
 	int n=0, count=1;
 	int card[3] = {0};
+	char *result=0, *cur=0;
 	
 	scanf("%d", &n);
+	result = (char *) calloc(sizeof(char), 2*n);
+	if(result==NULL) {
+		printf("malloc failed");
+		return 0;
+	}
+	cur = result;
 	
 	// color the first card
 	scanf("%d %d", &card[1], &card[2]);
 	if(card[1]!=0) {
 		if(card[1]==card[2]) {
-			printf("%d", -1);
+			printf("-1");
 			return 0;
 		}
 	} else {
 		card[1] = getColor(card[2]);
 	}
-	printf("%d", card[1]);
+	*cur++ = card[1]+'0';
 	count++;
 	
 	// color the other cards
@@ -54,7 +61,7 @@ int main()
 		
 		if(card[1]!=0) {
 			if(card[1]==card[2]) {
-				printf("%d", -1);
+				printf("-1");
 				return 0;
 			}
 		} else {
@@ -68,7 +75,8 @@ int main()
 				}
 			}
 		}
-		printf(" %d", card[1]);
+		*cur++ = ' ';
+		*cur++ = card[1]+'0';
 		count++;
 	}
 	
@@ -76,7 +84,14 @@ int main()
 	if(card[2]==0) {
 		card[2] = getColor(card[1]);
 	}
-	printf(" %d", card[2]);
+	*cur++ = ' ';
+	*cur++ = card[2]+'0';
+	*cur = '\0';
+	
+	printf("%s", result);
+	
+	free(result);
+	result = cur = 0;
 	
     return 0;
 }
