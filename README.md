@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|25|BOJ|10951|A+B-4|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10951-덧셈4.c)|-|
 |24|BOJ|24912|카드 색칠|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-24912-카드색칠.c)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-24912-카드색칠.md)|
 |23|BOJ|10871|X보다 작은 수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10871-X보다작은수.c)|-|
 |22|BOJ|2439|별 찍기 - 2|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02439-별찍기2.c)|-|
