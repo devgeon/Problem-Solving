@@ -29,7 +29,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |19|BOJ|2741|N 찍기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02741-N찍기.c)|-|
 |18|BOJ|15552|빠른 A+B|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-15552-빠른입출력.py)|-|
 |17|BOJ|8393|합|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-08393-합.c)|-|
-|16|BOJ|10950|A+B-3|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10950.c)|-|
+|16|BOJ|10950|A+B-3|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10950-덧셈3.c)|-|
 |15|BOJ|2739|구구단|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02739-구구단.c)|-|
 |14|BOJ|2480|주사위 세 개|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02480-주사위세개.c)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02480-주사위세개.md)|
 |13|BOJ|2525|오븐 시계|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02525-오븐시계.c)|-|
@@ -41,7 +41,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |7|BOJ|2588|곱셈|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02588-곱셈.c)|-|
 |6|BOJ|10430|나머지|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10430-나머지.c)|-|
 |5|BOJ|18108|1998년생인 내가 태국에서는 2541년생?!|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-18108-서기불기연도변환.c)|-|
-|4|BOJ|10926|??!|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10926.c)|-|
+|4|BOJ|10926|??!|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10926-Trigraph.c)|-|
 |3|BOJ|10869|사칙연산|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10869-사칙연산.c)|-|
 |2|BOJ|10171|고양이|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10171-고양이.c)|-|
 |1|BOJ|2557|Hello World!|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.c)|-|
