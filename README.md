@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|30|BOJ|2562|최댓값|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02562-최댓값.c)|-|
 |29|BOJ|10818|최소, 최대|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10818-최소최대.c)|-|
 |28|BOJ|11022|A+B-8|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11022-덧셈8.c)|-|
 |27|BOJ|11021|A+B-7|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11021-덧셈7.c)|-|
