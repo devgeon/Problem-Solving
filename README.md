@@ -21,8 +21,8 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
-|35|BOJ|18111|마인크래프트|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-18111-마인크래프트.c)|-|
-|34|BOJ|1010|다리 놓기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-01010-다리놓기.c)|-|
+|35|BOJ|18111|마인크래프트|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-18111-마인크래프트.c)|-|
+|34|BOJ|1010|다리 놓기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01010-다리놓기.c)|-|
 |33|BOJ|10172|개|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10172-개.c)|-|
 |32|BOJ|1110|더하기 사이클|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01110-더하기사이클.c)|-|
 |31|BOJ|2577|숫자의 개수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02577-숫자의개수.c)|-|
