@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|38|BOJ|1003|피보나치 함수|C99|TLE|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01003-피보나치함수.c)|-|
 |37|BOJ|1254|팰린드롬 만들기|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01254-팰린드롬만들기.c)|-|
 |36|BOJ|1051|숫자 정사각형|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01051-숫자정사각형.c)|-|
 |35|BOJ|18111|마인크래프트|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-18111-마인크래프트.c)|-|
