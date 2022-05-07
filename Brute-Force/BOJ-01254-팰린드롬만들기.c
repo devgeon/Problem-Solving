@@ -1,5 +1,5 @@
 // BOJ-01254 / 팰린드롬 만들기
-// devgeon, 2022.05.05, C99
+// devgeon, 2022.05.07, C99
 // https://www.acmicpc.net/problem/1254
  
 // 팰린드롬이란 앞에서부터 읽으나 뒤에서부터 읽으나 같은 문자열을 말한다.
@@ -11,7 +11,7 @@
 // 출력: 첫째 줄에 동호가 만들 수 있는 가장 짧은 팰린드롬의 길이를 출력한다.
 
 
-// 고쳐야 할 점: 마지막 글자와 중복된 글자가 있으면 해당 글자를 새로 추가한 글자로 착각하여 그 앞에 추가하는 오류가 있음.
+// 수정사항: 마지막 글자와 중복된 글자가 있으면 해당 글자를 새로 추가한 글자로 착각하여 그 앞에 추가하는 오류를 수정함.
 
 
 #include<stdio.h>
@@ -34,7 +34,10 @@ int main()
 		}
 	}
 	
-	while((temp = checkPalindrome(string, len)) != -1) {
+	while((temp = checkPalindrome(string, len)) != 0) {
+		if(cur==0) {
+			cur = len-1;
+		}
 		len = insertChar(string, len, cur);
 	}
 	
@@ -49,7 +52,7 @@ int checkPalindrome(char* string, int len)
 			return len-i-1;
 		}
 	}
-	return -1;
+	return 0;
 }
 
 int insertChar(char* string, int len, int idx)
