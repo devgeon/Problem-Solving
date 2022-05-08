@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|40|BOJ|1796|신기한 키보드|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-01796-신기한키보드.c)|-|
 |39|BOJ|25083|새싹|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-25083-새싹.c)|-|
 |38|BOJ|1003|피보나치 함수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01003-피보나치함수.c)|-|
 |37|BOJ|1254|팰린드롬 만들기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01254-팰린드롬만들기.c)|-|
