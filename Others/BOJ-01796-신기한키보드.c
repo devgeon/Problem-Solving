@@ -1,5 +1,5 @@
 // BOJ-01796 / 신기한 키보드
-// devgeon, 2022.05.08, C99
+// devgeon, 2022.05.09, C99
 // https://www.acmicpc.net/problem/1796
  
 // 문자열 S를 한 글자 씩 알파벳 순서대로 출력하려고 한다.
@@ -13,8 +13,17 @@
 //      문자열 S의 길이는 50보다 작거나 같으며, 알파벳 소문자로만 이루어져 있다.
 // 출력: 문자열 S의 모든 문자를 알파벳 순서대로 출력하고자 할 때, 키를 누르는 횟수의 최솟값을 출력한다.
 
+// 반례: caabcd는 17이 최소값인데 지금 알고리즘으로는 19가 나옴.
+//      c를 입력할 때 b에서 끝부분으로 가까운 두 번째 c를 먼저하는 것보다
+//      첫 번째 c를 먼저 입력하는 것이 키를 더 적게 누름.
+
+// 수정사항(5.9): 매 턴('a'~'z') 마다 양쪽 방향 모두 계산하여 최솟값을 선택하도록 수정하였으나,
+//              caabcd 같은 경우 c에서 우측 c를 먼저 찾는게 해당 턴에서는 값이 최소가 되기에
+//              문제가 해결되지 않음.
+
 
 #include<stdio.h>
+#include<string.h>
 #define STR_LEN_MAX 50
 
 int main()
@@ -22,9 +31,11 @@ int main()
 	int idx=0, len=0;
 	int count=0, cur=0;
 	int count_temp=0, cur_temp=0;
-	int finish=0, found=0, direction=0;
+	int count_min[2]={0,}, cur_min[2]={0,};
+	int attempt=0, finish=0, direction=0;
 	char char_temp=0;
 	char string[STR_LEN_MAX+1] = {0,};
+	char string_temp[STR_LEN_MAX+1] = {0,};
 	
 	// input
 	for(int i=0; i<STR_LEN_MAX+1; i++) {
@@ -42,44 +53,61 @@ int main()
 	}
 	
 	for(char c='a'; c<='z'; c++) {
-		count_temp = 0;
-		cur_temp = cur;
-		found = 0;
-		if(cur==0) {
-			direction = 1;
-			finish = 1;
-		} else if(cur==len-1) {
-			direction = -1;
-			finish = 1;
-		}
-		else if(cur<(len+1)/2) {
-			direction = -1;
-			finish = 0;
-		} else {
-			direction = 1;
-			finish = 0;
+		attempt = 0;
+		count_min[0] = count_min[1] = count;
+		cur_min[0] = cur_min[1] = cur;
+		
+		while(attempt<2) {
+			count_temp = 0;
+			cur_temp = cur;
+			strcpy(string_temp, string);
+			if(cur==0) {
+				direction = 1;
+				attempt = 1;
+				finish = 1;
+			} else if(cur==len-1) {
+				direction = -1;
+				attempt = 1;
+				finish = 1;
+			}
+			else if(cur<(len+1)/2) {
+				direction = -1 * (attempt?-1:1);
+				finish = 0;
+			} else {
+				direction = 1 * (attempt?-1:1);
+				finish = 0;
+			}
+			
+			while(finish<2) {
+				if(string_temp[cur_temp]==c) {
+					string_temp[cur_temp] = ' ';
+					count_min[attempt] += count_temp+1;
+					count_temp = 0;
+					cur_min[attempt] = cur_temp;
+				}
+				count_temp++;
+				cur_temp += direction;
+				if(cur_temp==-1 || cur_temp==len) {
+					count_temp = 0;
+					direction *= -1;
+					cur_temp = cur_min[attempt];
+					finish++;
+				}
+			}
+			attempt++;
 		}
 		
-		while(finish<2) {
-			if(string[cur_temp]==c) {
-				string[cur_temp] = ' ';
-				count += count_temp+1;
-				count_temp = 0;
-				found = 1;
-				cur = cur_temp;
-			}
-			count_temp++;
-			cur_temp += direction;
-			if(cur_temp==-1 || cur_temp==len) {
-				direction *= -1;
-				if(!found) {
-					count_temp = 0;
-					cur_temp = cur;
-				} else {
-					found = 0;
-					cur_temp += direction*2;
-				}
-				finish++;
+		strcpy(string, string_temp);
+		if(count_min[0]==count && count_min[1]!=count) {
+			count = count_min[1];
+			cur = cur_min[1];
+		} else if(count_min[0]!=count && count_min[1]!=count) {
+			if(count_min[0]>=count_min[1]) {
+				count = count_min[1];
+				cur = cur_min[1];
+			} else {
+				count = count_min[0];
+				cur = cur_min[0];
 			}
 		}
 	}
