@@ -15,18 +15,16 @@
 
 #include<stdio.h>
 
-long long calcWinRate(int win_count, int play_count);
-
 int main()
 {
-	int i = 0, temp = 0;
-	int play_count = 0;
-	int win_count = 0;
-	int win_rate = 0;
+	long long i = 0, temp = 0;
+	long long play_count = 0;
+	long long win_count = 0;
+	long long win_rate = 0;
 	
-	scanf("%d %d", &play_count, &win_count);
+	scanf("%lld %lld", &play_count, &win_count);
+	win_rate = win_count * 100 / play_count;
 	
-	win_rate = calcWinRate(play_count, win_count);
 	if(win_rate==100) {
 		printf("-1\n");
 		return 0;
@@ -34,15 +32,10 @@ int main()
 	
 	do {
 		i++;
-		temp = calcWinRate(play_count+i, win_count+i);
+		temp = (win_count+i) * 100 / (play_count+i);
 	} while(win_rate==temp);
-	
-	printf("%d\n", i);
+		
+	printf("%lld\n", i);
 	
 	return 0;
-}
-
-long long calcWinRate(int play_count, int win_count)
-{
-	return ( (long long) win_count * 100 / (long long) play_count );
 }
