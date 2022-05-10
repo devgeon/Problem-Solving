@@ -1,5 +1,5 @@
 // BOJ-01072 / 게임
-// devgeon, 2022.05.09, C99
+// devgeon, 2022.05.10, C99
 // https://www.acmicpc.net/problem/1072
  
 // 앞으로의 게임에서 무조건 승리한다고 가정할 때, 게임을 최소 몇 판을 더 해야 승률이 변하는지 구하는 프로그램을 작성하시오.
@@ -24,8 +24,9 @@ int main()
 	
 	scanf("%lld %lld", &play_count, &win_count);
 	win_rate = win_count * 100 / play_count;
+	i = play_count / 100;
 	
-	if(win_rate==100) {
+	if(win_rate>=99) {
 		printf("-1\n");
 		return 0;
 	}
