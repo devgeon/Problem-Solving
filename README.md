@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|46|BOJ|1065|한수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01065-한수.c)|-|
 |45|BOJ|1531|투명|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01531-투명.c)|-|
 |44|BOJ|1032|명령 프롬프트|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01032-명령프롬프트.c)|-|
 |43|BOJ|10699|오늘 날짜|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10699-오늘날짜.c)|-|
