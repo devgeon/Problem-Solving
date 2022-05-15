@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|49|BOJ|15814|야바위 대장|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-15814-야바위대장.c)|-|
 |48|BOJ|14397|해변|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-14397-해변.c)|-|
 |47|BOJ|11170|0의 개수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-11170-0의개수.c)|-|
 |46|BOJ|1065|한수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01065-한수.c)|-|
