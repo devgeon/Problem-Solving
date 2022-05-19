@@ -38,13 +38,15 @@ int main()
 		printf("-1\n");
 		return 0;
 	} else {
-		i = (100*win_count - play_count*win_rate - play_count) / (win_rate-99);
-		if(win_count>0) {
+		temp = (100*win_count - play_count*win_rate - play_count);
+		i = temp / (win_rate-99);
+		if(temp%(win_rate-99)!=0) {
 			i++;
 		}
 	}
 	
 	printf("%lld\n", i);
+	
 	
 	return 0;
 }

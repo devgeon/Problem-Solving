@@ -32,7 +32,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |45|BOJ|1531|투명|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01531-투명.c)|-|
 |44|BOJ|1032|명령 프롬프트|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01032-명령프롬프트.c)|-|
 |43|BOJ|10699|오늘 날짜|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10699-오늘날짜.c)|-|
-|42|BOJ|1072|게임|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01072-게임.c)|-|
+|42|BOJ|1072|게임|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01072-게임.c)|-|
 |41|BOJ|1543|문서 검색|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01543-문서검색.c)|-|
 |40|BOJ|1796|신기한 키보드|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-01796-신기한키보드.c)|-|
 |39|BOJ|25083|새싹|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-25083-새싹.c)|-|
