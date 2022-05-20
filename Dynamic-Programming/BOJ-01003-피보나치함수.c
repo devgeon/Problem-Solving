@@ -1,5 +1,5 @@
 // BOJ-01003 / 피보나치 함수
-// devgeon, 2022.05.06, C99
+// devgeon, 2022.05.20, C99
 // https://www.acmicpc.net/problem/1003
  
 // 주어진 피보나치 수를 구하는 함수 fibonacci()를 참고하여 fibonacci(N)을 호출했을 때
@@ -27,50 +27,54 @@
 #include<stdio.h>
 #define MAX 40
 
-int fibonacci(int n, int* count_zero, int* count_one);
+typedef struct _Counter {
+	int zero;
+	int one;
+} Counter;
+
+int fibonacci(int n, Counter* counter);
 
 int main()
 {
     int t=0, num=0;
-	int count_zero[MAX+1];
-	int count_one[MAX+1];
+	Counter counter[MAX+1] = {0,};
 	
 	for(int i=0; i<MAX+1; i++) {
-		count_zero[i] = -1;
-		count_one[i] = -1;
+		counter[i].zero = -1;
+		counter[i].one = -1;
 	}
 	
 	scanf("%d", &t);
 	
 	for(int i=0; i<t; i++) {
 		scanf("%d", &num);
-		if(count_one[num]==-1) {
-			fibonacci(num, count_zero, count_one);
+		if(counter[num].one==-1) {
+			fibonacci(num, counter);
 		}
-		printf("%d %d\n", count_zero[num], count_one[num]);
+		printf("%d %d\n", counter[num].zero, counter[num].one);
 	}
 	
 	return 0;
 }
 
-int fibonacci(int num, int* count_zero, int* count_one) {
-	if(count_zero[num]!=-1) {
+int fibonacci(int num, Counter* counter) {
+	if(counter[num].zero!=-1) {
 		return 0;
 	} else if(num==0) {
-		count_zero[num] = 1;
-		count_one[num] = 0;
+		counter[num].zero = 1;
+		counter[num].one = 0;
 	} else if(num==1) {
-		count_zero[num] = 0;
-		count_one[num] = 1;
+		counter[num].zero = 0;
+		counter[num].one = 1;
 	} else {
-		if(count_zero[num-2]==-1) {
-			fibonacci(num-2, count_zero, count_one);
+		if(counter[num-2].zero==-1) {
+			fibonacci(num-2, counter);
 		}
-		if(count_zero[num-1]==-1) {
-			fibonacci(num-1, count_zero, count_one);
+		if(counter[num-1].zero==-1) {
+			fibonacci(num-1, counter);
 		}
-		count_zero[num] = count_zero[num-1] + count_zero[num-2];
-		count_one[num] = count_one[num-1] + count_one[num-2];
+		counter[num].zero = counter[num-1].zero + counter[num-2].zero;
+		counter[num].one = counter[num-1].one + counter[num-2].one;
 	}
 	return 0;
 }
