@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|55|BOJ|7576|토마토|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-07576-토마토.c)|-|
 |54|BOJ|2440|별 찍기 - 3|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02440-별찍기3.cpp)|-|
 |53|BOJ|8958|OX퀴즈|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-08958-OX퀴즈.cpp)|-|
 |52|BOJ|2557|Hello World!|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.cpp)|-|
