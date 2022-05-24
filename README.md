@@ -24,7 +24,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |61|BOJ|11655|ROT13|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11655-ROT13.cpp)|-|
 |60|BOJ|1546|평균|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01546-평균.cpp)|-|
 |59|BOJ|2193|이친수|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-02193-이친수.cpp)|-|
-|58|BOJ|1059|좋은 구간|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Selection-Sort/BOJ-01059-좋은구간.cpp)|-|
+|58|BOJ|1059|좋은 구간|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-01059-좋은구간.cpp)|-|
 |57|BOJ|3052|나머지|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-03052-나머지.cpp)|-|
 |56|BOJ|2902|KMP는 왜 KMP일까?|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02902-KMP는왜KMP일까.cpp)|-|
 |55|BOJ|7576|토마토|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-07576-토마토.c)|-|
