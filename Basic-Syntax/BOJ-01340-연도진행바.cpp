@@ -15,7 +15,6 @@
 #include<array>
 
 const std::array<int,12> DATE_OF_MONTHS = {31,28,31,30,31,30,31,31,30,31,30,31};
-const unsigned long long PRECISION = 10000000000;
 
 int main()
 {
@@ -25,7 +24,7 @@ int main()
 	int minute_count=0;
 	int minute_total=0;
 	bool leap_year=false;
-	unsigned long long percentage_int = 0;
+	double percentage = 0;
 	std::string month_str;
 	
 	std::cin >> month_str >> day;
@@ -73,10 +72,10 @@ int main()
 	
 	minute_count = ((day_count-1)*24*60) + (hour*60) + minute;
 	minute_total = ((leap_year?366:365)*24*60);
-	percentage_int = ((unsigned long long) minute_count) * PRECISION*100;
-	percentage_int = percentage_int / minute_total + (percentage_int%minute_total > minute_total/2 ? 1 : 0);
+	percentage = ((double) minute_count) / minute_total * 100;
 	
-	std::cout << percentage_int/PRECISION << '.' << percentage_int%PRECISION << std::endl;
+	std::cout.precision(16);
+	std::cout << percentage << std::endl;
 	
     return 0;
 }
