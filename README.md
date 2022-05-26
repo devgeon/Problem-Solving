@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|64|BOJ|11720|숫자의 합|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11720-숫자의합.cpp)|-|
 |63|BOJ|1340|연도 진행바|C++17|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01340-연도진행바.cpp)|-|
 |62|BOJ|1475|방 번호|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01475-방번호.cpp)|-|
 |61|BOJ|11655|ROT13|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11655-ROT13.cpp)|-|
