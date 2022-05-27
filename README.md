@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|67|BOJ|1676|팩토리얼 0의 개수|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01676-팩토리얼0의개수.cpp)|-|
 |66|BOJ|3474|교수가 된 현우|C++17|TLE|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-03474-교수가된현우.cpp)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-03474-교수가된현우.md)|
 |65|BOJ|1978|소수 찾기|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01978-소수찾기.cpp)|-|
 |64|BOJ|11720|숫자의 합|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11720-숫자의합.cpp)|-|
