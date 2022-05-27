@@ -13,6 +13,9 @@
 // 구하여도 0의 개수를 알 수 있다.
 
 // TLE -> 5의 개수만 찾는 것이므로 반복문에서 5의 배수들만 대상으로 삼도록 개선하였음.
+//     -> n 이하의 자연수 중 5^i가 포함되어 있는 수의 개수는 나눗셈으로 쉽게 구할 수 있으므로 
+//        5^1부터 5^i<=n인 5^i까지 각각 개수를 구하여 누적합 하면 1부터 n까지의 수 각각의 소인수에 대해 
+//        5가 몇 개 포함되어 있는지 알 수 있다.
 
 
 #include<iostream>
@@ -20,27 +23,16 @@
 int main()
 {
 	int n=0;
-	int number=0, temp=0;
+	int number=0;
 	int count_five=0;
-	bool found_five=false;
 	
 	std::cin >> n;
 	
 	for(int i=0; i<n; i++) {
 		std::cin >> number;
 		count_five = 0;
-		number -= number%5;
-		while(number>=5) {
-			temp = number;
-			do {
-				found_five = false;
-				if(temp%5==0) {
-					temp /= 5;
-					count_five++;
-					found_five = true;
-				}
-			} while(found_five);
-			number -= 5;
+		for(int power=5; power<=number; power*=5) {
+			count_five += number / power;
 		}
 		std::cout << count_five << std::endl;
 	}
