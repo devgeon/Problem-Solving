@@ -12,6 +12,8 @@
 // 이때, 2 이상인 모든 자연수 n에 대하여 n~1 각각의 소인수에 포함된 5의 개수가 2보다 적기 때문에 5의 개수만 
 // 구하여도 0의 개수를 알 수 있다.
 
+// TLE -> 5의 개수만 찾는 것이므로 반복문에서 5의 배수들만 대상으로 삼도록 개선하였음.
+
 
 #include<iostream>
 
@@ -27,7 +29,8 @@ int main()
 	for(int i=0; i<n; i++) {
 		std::cin >> number;
 		count_five = 0;
-		while(number>=2) {
+		number -= number%5;
+		while(number>=5) {
 			temp = number;
 			do {
 				found_five = false;
@@ -37,7 +40,7 @@ int main()
 					found_five = true;
 				}
 			} while(found_five);
-			number--;
+			number -= 5;
 		}
 		std::cout << count_five << std::endl;
 	}
