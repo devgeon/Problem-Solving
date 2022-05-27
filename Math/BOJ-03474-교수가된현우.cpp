@@ -16,25 +16,31 @@
 //     -> n 이하의 자연수 중 5^i가 포함되어 있는 수의 개수는 나눗셈으로 쉽게 구할 수 있으므로 
 //        5^1부터 5^i<=n인 5^i까지 각각 개수를 구하여 누적합 하면 1부터 n까지의 수 각각의 소인수에 대해 
 //        5가 몇 개 포함되어 있는지 알 수 있다.
+//     -> 입출력 속도를 높일 수 있는 구문 2가지(26~28행)을 추가함. (세부 설명은 "BOJ-03474-교수가된현우.md" 참고)
 
 
 #include<iostream>
 
+using namespace std;
+
 int main()
 {
+	ios::sync_with_stdio(false);
+	cin.tie(NULL);
+	
 	int n=0;
 	int number=0;
 	int count_five=0;
 	
-	std::cin >> n;
+	cin >> n;
 	
 	for(int i=0; i<n; i++) {
-		std::cin >> number;
+		cin >> number;
 		count_five = 0;
 		for(int power=5; power<=number; power*=5) {
 			count_five += number / power;
 		}
-		std::cout << count_five << std::endl;
+		cout << count_five << '\n';
 	}
 	
     return 0;
