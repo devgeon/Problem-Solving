@@ -20,7 +20,7 @@
 typedef struct _FruitStorage {
 		int width;
 		int height;
-		char **boxes;
+		int **boxes;
 		int fruits;
 		int ripe_fruits;
 	} FruitStorage;
@@ -34,13 +34,13 @@ int main()
 	
 	scanf("%d %d", &storage.width, &storage.height);
 	
-	storage.boxes = (char**) calloc(storage.width*storage.height, sizeof(char*));
+	storage.boxes = (int**) calloc(storage.width*storage.height, sizeof(int*));
 	if(!storage.boxes) {
 		printf("calloc error");
 		exit(1);
 	}
 	for(int i=0; i<storage.height; i++) {
-		storage.boxes[i] = (char*) calloc(storage.width, sizeof(char));
+		storage.boxes[i] = (int*) calloc(storage.width, sizeof(int));
 		if(!storage.boxes[i]) {
 			printf("calloc error");
 			exit(1);
@@ -49,7 +49,7 @@ int main()
 	
 	for(int i=0; i<storage.height; i++) {
 		for(int j=0; j<storage.width; j++) {
-			scanf("%hhd", &storage.boxes[i][j]);
+			scanf("%d", &storage.boxes[i][j]);
 			if(storage.boxes[i][j]==1) {
 				storage.ripe_fruits++;
 			} else if(storage.boxes[i][j]==0) {
