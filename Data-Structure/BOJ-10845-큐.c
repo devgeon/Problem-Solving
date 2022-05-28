@@ -56,8 +56,7 @@ int main()
 	for(int i=0; i<t; i++) {
 		input_cmd(cmd);
 		if(strncmp(cmd,"push",2)==0) {
-			num = getchar() - '0';
-			getchar();
+			scanf("%d\n", &num);
 			push(queue,num);
 		} else if(strncmp(cmd,"pop",2)==0) {
 			printf("%d\n", pop(queue));
@@ -79,6 +78,9 @@ int main()
 Queue* createQueue()
 {
 	Queue* ptr = (Queue*) calloc(1, sizeof(Queue));
+	if(ptr==NULL) {
+		exit(1);
+	}
 	ptr->length = 0;
 	ptr->first_addr = 0;
 	ptr->last_addr = 0;
@@ -97,6 +99,9 @@ Queue* deleteQueue(Queue* queue)
 int push(Queue* queue, int n)
 {
 	Node* new_node = (Node*) calloc(1, sizeof(Node));
+	if(new_node==NULL) {
+		exit(1);
+	}
 	new_node->next = 0;
 	new_node->num = n;
 	if(queue->length==0) {
