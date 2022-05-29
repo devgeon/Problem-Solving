@@ -14,6 +14,7 @@
 //      만약, 저장될 때부터 모든 토마토가 익어있는 상태라면 0을 출력하고, 토마토가 모두 익지 못하는 상황이면 -1을 출력한다.
 
 // TLE -> BFS로 개선함.
+// MLE -> Queue에 이미 포함된 항목이 중복되어 들어가지 않도록 개선함.
 
 
 #include<stdio.h>
@@ -124,6 +125,7 @@ int tomorrow(FruitStorage* storage, Queue* queue, int day)
 			temp.r = coord.r-1;
 			temp.c = coord.c;
 			if(storage->boxes[temp.r][temp.c]==0) {
+				storage->boxes[temp.r][temp.c] = 2;
 				push(queue, temp);
 			}
 		}
@@ -131,6 +133,7 @@ int tomorrow(FruitStorage* storage, Queue* queue, int day)
 			temp.r = coord.r+1;
 			temp.c = coord.c;
 			if(storage->boxes[temp.r][temp.c]==0) {
+				storage->boxes[temp.r][temp.c] = 2;
 				push(queue, temp);
 			}
 		}
@@ -138,6 +141,7 @@ int tomorrow(FruitStorage* storage, Queue* queue, int day)
 			temp.r = coord.r;
 			temp.c = coord.c-1;
 			if(storage->boxes[temp.r][temp.c]==0) {
+				storage->boxes[temp.r][temp.c] = 2;
 				push(queue, temp);
 			}
 		}
@@ -145,6 +149,7 @@ int tomorrow(FruitStorage* storage, Queue* queue, int day)
 			temp.r = coord.r;
 			temp.c = coord.c+1;
 			if(storage->boxes[temp.r][temp.c]==0) {
+				storage->boxes[temp.r][temp.c] = 2;
 				push(queue, temp);
 			}
 		}
