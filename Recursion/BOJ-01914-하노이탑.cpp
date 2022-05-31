@@ -14,9 +14,11 @@
 
 
 #include<iostream>
+#include<string>
 #include<array>
 
 const int NUM_LEN = 32;
+std::string out_buf = "";
 
 void hanoi(int num, int start, int end);
 
@@ -41,6 +43,7 @@ int main()
 		if(num <= 20) {
 			hanoi(num,1,3);
 		}
+		std::cout << out_buf;
 	} else {
 		count = ((long long) 2) << (62-1);
 		for(int i=NUM_LEN-1; i>=0; i--) {
@@ -98,9 +101,9 @@ void hanoi(int num, int start, int end)
 {
 	if(num > 1) {
 		hanoi(num-1, start, 6-start-end);
-		std::cout << start << " " << end << std::endl;
+		out_buf += std::to_string(start) + " " + std::to_string(end) + "\n";
 		hanoi(num-1, 6-start-end, end);
 	} else {
-		std::cout << start << " " << end << std::endl;
+		out_buf += std::to_string(start) + " " + std::to_string(end) + "\n";
 	}
 }
