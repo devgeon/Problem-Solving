@@ -53,7 +53,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |43|BOJ|10699|오늘 날짜|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10699-오늘날짜.c)|-|
 |42|BOJ|1072|게임|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01072-게임.c)|-|
 |41|BOJ|1543|문서 검색|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01543-문서검색.c)|-|
-|40|BOJ|1796|신기한 키보드|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-01796-신기한키보드.c)|-|
+|40|BOJ|1796|신기한 키보드|C99|WA|[link](https://github.com/devgeon/Problem-Solving/blob/main/Other/BOJ-01796-신기한키보드.c)|-|
 |39|BOJ|25083|새싹|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-25083-새싹.c)|-|
 |38|BOJ|1003|피보나치 함수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01003-피보나치함수.c)|-|
 |37|BOJ|1254|팰린드롬 만들기|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01254-팰린드롬만들기.c)|-|
@@ -69,7 +69,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |27|BOJ|11021|A+B-7|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11021-덧셈7.c)|-|
 |26|BOJ|10952|A+B-5|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10952-덧셈5.c)|-|
 |25|BOJ|10951|A+B-4|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10951-덧셈4.c)|-|
-|24|BOJ|24912|카드 색칠|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-24912-카드색칠.c)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Others/BOJ-24912-카드색칠.md)|
+|24|BOJ|24912|카드 색칠|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Other/BOJ-24912-카드색칠.c)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Other/BOJ-24912-카드색칠.md)|
 |23|BOJ|10871|X보다 작은 수|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10871-X보다작은수.c)|-|
 |22|BOJ|2439|별 찍기 - 2|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02439-별찍기2.c)|-|
 |21|BOJ|2438|별 찍기 - 1|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02438-별찍기1.c)|-|
