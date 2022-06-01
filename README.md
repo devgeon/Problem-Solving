@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|72|BOJ|15829|Hashing|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Hash/BOJ-15829-Hashing.cpp)|-|
 |71|BOJ|11729|하노이 탑 이동 순서|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-11729-하노이탑이동순서.cpp)|-|
 |70|BOJ|1914|하노이 탑|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-01914-하노이탑.cpp)|-|
 |69|BOJ|2089|-2진수|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-02089-마이너스2진수.cpp)|-|
