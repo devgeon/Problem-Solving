@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|77|BOJ|13015|별 찍기 - 23|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-13015-별찍기23.cpp)|-|
 |76|BOJ|17478|재귀함수가 뭔가요?|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-17478-재귀함수가뭔가요.cpp)|-|
 |75|BOJ|1000|A+B|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01000-합.cpp)|-|
 |74|BOJ|1152|단어의 개수|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01152-단어의개수.cpp)|-|
