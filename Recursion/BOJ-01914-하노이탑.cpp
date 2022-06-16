@@ -1,5 +1,5 @@
 // BOJ-01914 / 하노이 탑
-// devgeon, 2022.05.31, C++17
+// devgeon, 2022.06.16, C++17
 // https://www.acmicpc.net/problem/1914
 
 // 세 개의 장대가 있고 첫 번째 장대에는 반경이 서로 다른 n개의 원판이 쌓여 있다. 각 원판은 반경이 큰 순서대로 쌓여있다.
@@ -15,95 +15,210 @@
 
 #include<iostream>
 #include<string>
-#include<array>
 
-const int NUM_LEN = 32;
-std::string out_buf = "";
+using namespace std;
 
-void hanoi(int num, int start, int end);
+class BigInt {
+private:
+	const int NUM_LEN = 32;
+	int* big_int;
+public:
+	BigInt();
+	~BigInt();
+	void setNumber(long long n);
+	void resetNumber();
+	void printNumber();
+	void multiplyNumber(short n);
+	void addNumber(short n);
+	void subtractNumber(short n);
+};
+
+void hanoi(int num, int start, int end, string& out_buf);
+
 
 int main()
 {
-	std::ios::sync_with_stdio(false);
-	std::cin.tie(NULL);
+	ios::sync_with_stdio(false);
+	cin.tie(NULL);
 	
 	int num=0;
-	char carry=0;
 	long long count=0;
-	std::array<int,NUM_LEN> count_big;
-	for(int i=0; i<NUM_LEN; i++) {
-		count_big[i] = -1;
-	}
+	string out_buf = "";
+	BigInt big_num;
 	
-	std::cin >> num;
+	cin >> num;
 	
 	if(num < 63) {
 		count = (((long long) 2) << (num-1)) - 1;
-		std::cout << count << std::endl;
+		cout << count << endl;
 		if(num <= 20) {
-			hanoi(num,1,3);
+			hanoi(num,1,3,out_buf);
 		}
-		std::cout << out_buf;
+		cout << out_buf;
 	} else {
-		count = ((long long) 2) << (62-1);
-		for(int i=NUM_LEN-1; i>=0; i--) {
-			count_big[i] = count % 10;
-			count /= 10;
-			if(count==0) {
-				break;
+		try {
+			count = ((long long) 2) << (62-1);
+			big_num.setNumber(count);
+			for(int i=63; i<=num; i++) {
+				big_num.multiplyNumber(2);
 			}
+			big_num.subtractNumber(1);
+			big_num.printNumber();
+		} catch(const string error_msg) {
+			cout << "Error: " << error_msg << endl;
+			exit(1);
 		}
-		if(count>0) {
-			exit(1);  // overflow
-		}
-		for(int i=63; i<=num; i++) {
-			carry = 0;
-			for(int j=NUM_LEN-1; j>=0; j--) {
-				if(count_big[j]<0) {
-					if(carry==1) {
-						if(j==0) {
-							exit(1);  // overflow
-						} else {
-							count_big[j] = 1;
-						}
-					}
-					break;
-				}
-				count_big[j] *= 2;
-				if(carry==1) {
-					count_big[j] += carry;
-					carry = 0;
-				}
-				if(count_big[j]>=10) {
-					count_big[j] %= 10;
-					if(j==0) {
-						exit(1);  // overflow
-					} else {
-						carry = 1;
-					}
-				}
-			}
-		}
-		count_big[NUM_LEN-1]--;  // count_big[NUM_LEN-1] == 2 or 4 or 8 or 6
-		for(int i=0; i<NUM_LEN; i++) {
-			if(count_big[i]<0) {
-				continue;
-			}
-			std::cout << count_big[i];
-		}
-		std::cout << std::endl;
 	}
 	
     return 0;
 }
 
-void hanoi(int num, int start, int end)
+
+void hanoi(int num, int start, int end, string& out_buf)
 {
 	if(num > 1) {
-		hanoi(num-1, start, 6-start-end);
-		out_buf += std::to_string(start) + " " + std::to_string(end) + "\n";
-		hanoi(num-1, 6-start-end, end);
+		hanoi(num-1, start, 6-start-end, out_buf);
+		out_buf += to_string(start) + " " + to_string(end) + "\n";
+		hanoi(num-1, 6-start-end, end, out_buf);
 	} else {
-		out_buf += std::to_string(start) + " " + std::to_string(end) + "\n";
+		out_buf += to_string(start) + " " + to_string(end) + "\n";
+	}
+}
+
+BigInt::BigInt() {
+	big_int = new int[NUM_LEN];
+	for(int i=0; i<NUM_LEN; i++) {
+		big_int[i] = -1;
+	}
+	big_int[NUM_LEN-1] = 0;
+}
+
+BigInt::~BigInt() {
+	delete[] big_int;
+}
+
+void BigInt::resetNumber() {
+	for(int i=0; i<NUM_LEN; i++) {
+		big_int[i] = -1;
+	}
+	big_int[NUM_LEN-1] = 0;
+}
+
+void BigInt::setNumber(long long n) {
+	if(n<0) throw "BigInt must be positive";
+	else if(n==0) {
+		resetNumber();
+		return;
+	}
+	for(int i=NUM_LEN-1; i>=0; i--) {
+		if(n!=0) {
+			big_int[i] = n % 10;
+			n /= 10;
+		} else {
+			if(big_int[i]==-1) {
+				break;
+			}
+			big_int[i] = -1;
+		}
+	}
+	if(n>0) throw "overflow occured";
+}
+
+void BigInt::printNumber() {
+	for(int i=0; i<NUM_LEN; i++) {
+		if(big_int[i]<0) {
+			continue;
+		}
+		cout << big_int[i];
+	}
+	cout << endl;
+}
+
+void BigInt::multiplyNumber(short n) {
+	int carry=0;
+	if(n<0) throw "BigInt must be positive";
+	else if(n==0) setNumber(0);
+	for(int j=NUM_LEN-1; j>=0; j--) {
+		if(big_int[j]<0) {
+			if(carry>0) {
+				big_int[j] = carry%10;
+				carry /= 10;
+			}
+			if(n>0) {
+				continue;
+			} else {
+				break;
+			}
+		}
+		big_int[j] *= n;
+		if(carry>0) {
+			big_int[j] += carry;
+			carry = 0;
+		}
+		if(big_int[j]>=10) {
+			carry = big_int[j] / 10;
+			big_int[j] %= 10;
+			if(j==0) throw "overflow occured";
+		}
+	}
+}
+
+void BigInt::addNumber(short n) {
+	int carry=0;
+	if(n<0) throw "input must be positive";
+	for(int j=NUM_LEN-1; j>=0; j--) {
+		if(big_int[j]<0) {
+			big_int[j]++;
+		}
+		big_int[j] += n%10;
+		n /= 10;
+		if(carry>0) {
+			big_int[j] += carry;
+			carry = 0;
+		}
+		if(big_int[j]>=10) {
+			carry = big_int[j] / 10;
+			big_int[j] %= 10;
+		}
+		if(n==0 && carry==0) {
+			break;
+		} else if(j==0) {
+			throw "overflow occured";
+		}
+	}
+}
+
+void BigInt::subtractNumber(short n) {
+	int carry=0;
+	if(n<0) throw "input must be positive";
+	for(int j=NUM_LEN-1; j>=0; j--) {
+		if(big_int[j]==-1) throw "BigInt must be positive";
+		big_int[j] -= n%10;
+		n /= 10;
+		if(carry>0) {
+			big_int[j] -= carry;
+			carry = 0;
+		}
+		if(big_int[j]<0) {
+			carry = big_int[j] / (-10);
+			if((big_int[j]%10)!=0) {
+				carry++;
+				big_int[j] = 10 + big_int[j] % 10;
+			} else {
+				big_int[j] = 0;
+			}
+		}
+		if(n==0 && carry==0) {
+			for(int k=0; k<NUM_LEN; k++) {
+				if(big_int[k]==0) {
+					big_int[k] = -1;
+				} else if(big_int[k]!=-1) {
+					break;
+				}
+			}
+			break;
+		} else if(j==0) {
+			throw "overflow occured";
+		}
 	}
 }
