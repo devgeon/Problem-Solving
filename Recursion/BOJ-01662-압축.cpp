@@ -14,87 +14,52 @@
 
 using namespace std;
 
-void input_deque(deque<char>& deq);
-void repeat_deque(deque<char>& deq, int repeat=1);
-void concat_deque(deque<char>& deq1, const deque<char>& deq2);
-void print_deque(deque<char>& deq);
-deque<char>::iterator decompress(const deque<char>& compressed, deque<char>& decompressed, const deque<char>::iterator& start);
+void get_str(deque<char>& deq);
+int decompress(const deque<char>& compressed, deque<char>::iterator& start);
 
 
 int main()
 {
-	deque<char> compressed;
-    deque<char> decompressed;
+    deque<char> compressed;
+    int length = 0;
 
-    input_deque(compressed);
-    decompress(compressed, decompressed, compressed.begin());
-    // print_deque(decompressed);
-    cout << decompressed.size() << endl;
-	
+    get_str(compressed);
+    deque<char>::iterator begin = compressed.begin();
+    length = decompress(compressed, begin);
+    cout << length << endl;
+
     return 0;
 }
 
 
-deque<char>::iterator decompress(const deque<char>& compressed, deque<char>& decompressed, const deque<char>::iterator& start)
+int decompress(const deque<char>& compressed, deque<char>::iterator& start)
 {
+    int length = 0;
     int repeat = 0;
     deque<char>::iterator i;
-    deque<char> decompressed_temp;
 
     for(i=start; i<compressed.end(); i++) {
-        if(*i=='(') {
-            repeat = decompressed.back()-'0';
-            decompressed.pop_back();
-            decompressed_temp.clear();
-            i = decompress(compressed, decompressed_temp, i+1);
-            repeat_deque(decompressed_temp, repeat);
-            concat_deque(decompressed, decompressed_temp);
+        if(i+1 != compressed.end() && *(i+1)=='(') {
+            repeat = *i-'0';
+            i += 2;
+            length += repeat * decompress(compressed, i);
         } else if(*i==')') {
             break;
         } else {
-            decompressed.push_back(*i);
+            length++;
         }
     }
-    return i;
+    start = i;
+    return length;
 }
 
-void input_deque(deque<char>& deq)
+void get_str(deque<char>& deq)
 {
     char c;
+
     while((c=cin.get()) != '\n' && c != cin.eof()) {
         deq.push_back(c);
     }
-    return;
-}
 
-void repeat_deque(deque<char>& deq, int repeat)
-{
-    if(repeat==0) {
-        deq.clear();
-        return;
-    } else if(repeat==1) {
-        return;
-    } else if(deq.size()==0) {
-        return;
-    }
-    deque<char> deq_temp(deq);
-    for(int i=0; i<repeat-1; i++) {
-        deq.insert(deq.end(), deq_temp.begin(), deq_temp.end());
-    }
-    return;
-}
-
-void concat_deque(deque<char>& deq1, const deque<char>& deq2)
-{
-    deq1.insert(deq1.end(), deq2.begin(), deq2.end());
-    return;
-}
-
-void print_deque(deque<char>& deq)
-{
-    for(int i=0; i<deq.size(); i++) {
-        cout << deq[i];
-    }
-    cout << endl;
     return;
 }
