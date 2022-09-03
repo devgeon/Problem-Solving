@@ -9,60 +9,17 @@
 # 출력: 만들 수 있는 정수의 개수를 출력한다.
 
 
+from itertools import combinations, permutations
+
+
 def select_numbers(numbers:list, count:int):
-    result = list()
-    for i in range(len(numbers)):
-        for j in range(i+1,len(numbers)):
-            if count == 2:
-                result.append((numbers[i],numbers[j]))
-            else:
-                for k in range(j+1, len(numbers)):
-                    if count == 3:
-                        result.append((numbers[i],numbers[j],numbers[k]))
-                    else:
-                        for l in range(k+1, len(numbers)):
-                            result.append((numbers[i],numbers[j],numbers[k],numbers[l]))
-    return result
+    return list(combinations(numbers, count))
 
 def shuffle_numbers(numbers:list, result:set):
-    if len(numbers[0]) == 2:
-        for num_tup in numbers:
-            result.add(num_tup[0]+num_tup[1])
-            result.add(num_tup[1]+num_tup[0])
-    elif len(numbers[0]) == 3:
-        for num_tup in numbers:
-            result.add(num_tup[0]+num_tup[1]+num_tup[2])
-            result.add(num_tup[0]+num_tup[2]+num_tup[1])
-            result.add(num_tup[1]+num_tup[0]+num_tup[2])
-            result.add(num_tup[1]+num_tup[2]+num_tup[0])
-            result.add(num_tup[2]+num_tup[0]+num_tup[1])
-            result.add(num_tup[2]+num_tup[1]+num_tup[0])
-    else:
-        for num_tup in numbers:
-            result.add(num_tup[0]+num_tup[1]+num_tup[2]+num_tup[3])
-            result.add(num_tup[0]+num_tup[1]+num_tup[3]+num_tup[2])
-            result.add(num_tup[0]+num_tup[2]+num_tup[1]+num_tup[3])
-            result.add(num_tup[0]+num_tup[2]+num_tup[3]+num_tup[1])
-            result.add(num_tup[0]+num_tup[3]+num_tup[1]+num_tup[2])
-            result.add(num_tup[0]+num_tup[3]+num_tup[2]+num_tup[1])
-            result.add(num_tup[1]+num_tup[0]+num_tup[2]+num_tup[3])
-            result.add(num_tup[1]+num_tup[0]+num_tup[3]+num_tup[2])
-            result.add(num_tup[1]+num_tup[2]+num_tup[0]+num_tup[3])
-            result.add(num_tup[1]+num_tup[2]+num_tup[3]+num_tup[0])
-            result.add(num_tup[1]+num_tup[3]+num_tup[0]+num_tup[2])
-            result.add(num_tup[1]+num_tup[3]+num_tup[2]+num_tup[0])
-            result.add(num_tup[2]+num_tup[1]+num_tup[0]+num_tup[3])
-            result.add(num_tup[2]+num_tup[1]+num_tup[3]+num_tup[0])
-            result.add(num_tup[2]+num_tup[0]+num_tup[1]+num_tup[3])
-            result.add(num_tup[2]+num_tup[0]+num_tup[3]+num_tup[1])
-            result.add(num_tup[2]+num_tup[3]+num_tup[1]+num_tup[0])
-            result.add(num_tup[2]+num_tup[3]+num_tup[0]+num_tup[1])
-            result.add(num_tup[3]+num_tup[1]+num_tup[2]+num_tup[0])
-            result.add(num_tup[3]+num_tup[1]+num_tup[0]+num_tup[2])
-            result.add(num_tup[3]+num_tup[2]+num_tup[1]+num_tup[0])
-            result.add(num_tup[3]+num_tup[2]+num_tup[0]+num_tup[1])
-            result.add(num_tup[3]+num_tup[0]+num_tup[1]+num_tup[2])
-            result.add(num_tup[3]+num_tup[0]+num_tup[2]+num_tup[1])
+    for nums in numbers:
+        integers = permutations(nums, len(numbers[0]))
+        for integer in integers:
+            result.add("".join(integer))
     return result
 
 
