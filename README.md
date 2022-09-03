@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|82|BOJ|5568|카드 놓기|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-05568-카드놓기.py)|-|
 |81|BOJ|1662|압축|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-01662-압축.cpp)|-|
 |80|BOJ|2178|미로 탐색|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Breadth-First-Search/BOJ-02178-미로탐색.cpp)|-|
 |79|BOJ|10828|스택|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/BOJ-10828-스택.c)|-|
