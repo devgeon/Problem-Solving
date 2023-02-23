@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|85|BOJ|27231|2023년이 기대되는 이유|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-27231-2023년이기대되는이유.py)|-|
 |84|BOJ|2839|설탕 배달|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-2839-설탕배달.py)|-|
 |83|BOJ|3613|Java vs C++|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-03613-JAVAvsCPP.py)|-|
 |82|BOJ|5568|카드 놓기|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-05568-카드놓기.py)|-|
