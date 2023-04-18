@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|89|BOJ|1699|제곱수의 합|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01699-제곱수의합.py)|-|
 |88|BOJ|2447|별 찍기 - 10|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02447-별찍기10.py)|-|
 |87|BOJ|9012|괄호|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/BOJ-09012-괄호.py)|-|
 |86|BOJ|11724|연결 요소의 개수|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/BOJ-11724-연결요소의개수.py)|-|
