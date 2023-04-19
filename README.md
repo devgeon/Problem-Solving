@@ -25,13 +25,13 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |89|BOJ|1699|제곱수의 합|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01699-제곱수의합.py)|-|
 |88|BOJ|2447|별 찍기 - 10|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02447-별찍기10.py)|-|
 |87|BOJ|9012|괄호|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/BOJ-09012-괄호.py)|-|
-|86|BOJ|11724|연결 요소의 개수|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/BOJ-11724-연결요소의개수.py)|-|
+|86|BOJ|11724|연결 요소의 개수|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graph/BOJ-11724-연결요소의개수.py)|-|
 |85|BOJ|27231|2023년이 기대되는 이유|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-27231-2023년이기대되는이유.py)|-|
 |84|BOJ|2839|설탕 배달|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-2839-설탕배달.py)|-|
 |83|BOJ|3613|Java vs C++|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-03613-JAVAvsCPP.py)|-|
 |82|BOJ|5568|카드 놓기|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-05568-카드놓기.py)|-|
 |81|BOJ|1662|압축|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-01662-압축.cpp)|-|
-|80|BOJ|2178|미로 탐색|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Breadth-First-Search/BOJ-02178-미로탐색.cpp)|-|
+|80|BOJ|2178|미로 탐색|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graph/Breadth-First-Search/BOJ-02178-미로탐색.cpp)|-|
 |79|BOJ|10828|스택|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/BOJ-10828-스택.c)|-|
 |78|BOJ|24900|한별 찍기|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-24900-한별찍기.cpp)|-|
 |77|BOJ|13015|별 찍기 - 23|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-13015-별찍기23.cpp)|-|
@@ -56,7 +56,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |58|BOJ|1059|좋은 구간|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-01059-좋은구간.cpp)|-|
 |57|BOJ|3052|나머지|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-03052-나머지.cpp)|-|
 |56|BOJ|2902|KMP는 왜 KMP일까?|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02902-KMP는왜KMP일까.cpp)|-|
-|55|BOJ|7576|토마토|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Breadth-First-Search/BOJ-07576-토마토.c)|-|
+|55|BOJ|7576|토마토|C99|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graph/Breadth-First-Search/BOJ-07576-토마토.c)|-|
 |54|BOJ|2440|별 찍기 - 3|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02440-별찍기3.cpp)|-|
 |53|BOJ|8958|OX퀴즈|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-08958-OX퀴즈.cpp)|-|
 |52|BOJ|2557|Hello World!|C++17|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.cpp)|-|
