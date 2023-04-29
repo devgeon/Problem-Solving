@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점결과|소스코드|코드설명|
 |-|---|---|---|---|------|------|------|
+|94|BOJ|1654|랜선 자르기|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-01654-랜선자르기.py)|-|
 |93|BOJ|10026|적록색약|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graph/Breadth-First-Search/BOJ-10026-적록색약.py)|-|
 |92|BOJ|16236|아기 상어|Python3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graph/Breadth-First-Search/BOJ-16236-아기상어.py)|-|
 |91|BOJ|9466|텀 프로젝트|PyPy3|AC|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graph/BOJ-09466-텀프로젝트.py)|-|
