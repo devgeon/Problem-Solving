@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|97|BOJ|1446|지름길|Python3|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01446-지름길.py)|-|
 |96|BOJ|11008|복붙의 달인|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11008-복붙의달인.cpp)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11008-복붙의달인.md)|
 |95|BOJ|10866|덱|C++17|AC|Deque|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Deque/BOJ-10866-덱.cpp)|-|
 |94|BOJ|1654|랜선 자르기|Python3|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-01654-랜선자르기.py)|-|
