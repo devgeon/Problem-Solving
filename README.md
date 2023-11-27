@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|104|BOJ|1022|소용돌이 예쁘게 출력하기|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01022-소용돌이예쁘게출력하기.cpp)|-|
 |103|BOJ|24508|나도리팡|C++17|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-24508-나도리팡.cpp)|-|
 |102|BOJ|7569|토마토|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-07569-토마토.cpp)|-|
 |101|BOJ|4396|지뢰 찾기|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-04396-지뢰찾기.py)|-|
