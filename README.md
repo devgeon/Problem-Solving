@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|109|BOJ|19582|200년간 폐관수련했더니 PS 최강자가 된 건에 대하여|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-19582-PS최강자.cpp)|-|
 |108|BOJ|1074|Z|C++17|AC|Divide And Conquer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Divide-And-Conquer/BOJ-01074-Z.cpp)|-|
 |107|BOJ|2846|오르막길|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02846-오르막길.cpp)|-|
 |106|BOJ|16928|뱀과 사다리 게임|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-16928-뱀과사다리게임.cpp)|-|
