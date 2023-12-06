@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|113|BOJ|25556|포스택|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25556-포스택.cpp)|-|
 |112|BOJ|11179|2진수 뒤집기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11179-2진수뒤집기.cpp)|-|
 |111|BOJ|1463|1로 만들기|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01463-1로만들기.cpp)|-|
 |110|BOJ|17432|정렬|C++17|AC|Insertion Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Insertion-Sort/BOJ-17432-정렬.cpp)|-|
