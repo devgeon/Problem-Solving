@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|115|BOJ|17294|귀여운 수~ε٩(๑> ₃ <)۶з|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-17294-귀여운수.cpp)|-|
 |114|BOJ|12945|재미있는 박스 정리|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-12945-재미있는박스정리.cpp)|-|
 |113|BOJ|25556|포스택|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25556-포스택.cpp)|-|
 |112|BOJ|11179|2진수 뒤집기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11179-2진수뒤집기.cpp)|-|
