@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|118|BOJ|10798|세로읽기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10798-세로읽기.cpp)|-|
 |117|BOJ|4796|캠핑|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-04796-캠핑.cpp)|-|
 |116|BOJ|1157|단어 공부|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-01157-단어공부.cpp)|-|
 |115|BOJ|17294|귀여운 수~ε٩(๑> ₃ <)۶з|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-17294-귀여운수.cpp)|-|
