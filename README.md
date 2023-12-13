@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|120|BOJ|2557|Hello World|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.java)|-|
 |119|BOJ|11653|소인수분해|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-11653-소인수분해.cpp)|-|
 |118|BOJ|10798|세로읽기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10798-세로읽기.cpp)|-|
 |117|BOJ|4796|캠핑|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-04796-캠핑.cpp)|-|
@@ -88,7 +89,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |55|BOJ|7576|토마토|C99|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-07576-토마토.c)|-|
 |54|BOJ|2440|별 찍기 - 3|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02440-별찍기3.cpp)|-|
 |53|BOJ|8958|OX퀴즈|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-08958-OX퀴즈.cpp)|-|
-|52|BOJ|2557|Hello World!|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.cpp)|-|
+|52|BOJ|2557|Hello World|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.cpp)|-|
 |51|BOJ|10813|공 바꾸기|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10813-공바꾸기.c)|-|
 |50|BOJ|2908|상수|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02908-상수.c)|-|
 |49|BOJ|15814|야바위 대장|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-15814-야바위대장.c)|-|
@@ -139,7 +140,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |4|BOJ|10926|??!|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10926-Trigraph.c)|-|
 |3|BOJ|10869|사칙연산|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10869-사칙연산.c)|-|
 |2|BOJ|10171|고양이|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-10171-고양이.c)|-|
-|1|BOJ|2557|Hello World!|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.c)|-|
+|1|BOJ|2557|Hello World|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Basic-Syntax/BOJ-02557-HelloWorld.c)|-|
 
 > \*채점결과: AC, WA, CE, TLE, RE, MLE, PE, OLE, UA  
 > \*소스코드와 코드설명은 해당 파일을 링크하며, 설명 파일이 없을 경우 "-"로 표기

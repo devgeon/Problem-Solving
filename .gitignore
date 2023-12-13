@@ -3,3 +3,4 @@
 /bin
 goorm.manifest
 *.out
+*.class
