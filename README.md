@@ -78,10 +78,10 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |72|BOJ|15829|Hashing|C++17|AC|Hashing|[link](https://github.com/devgeon/Problem-Solving/blob/main/Hashing/BOJ-15829-Hashing.cpp)|-|
 |71|BOJ|11729|하노이 탑 이동 순서|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-11729-하노이탑이동순서.cpp)|-|
 |70|BOJ|1914|하노이 탑|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-01914-하노이탑.cpp)|-|
-|69|BOJ|2089|-2진수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-02089-마이너스2진수.cpp)|-|
+|69|BOJ|2089|-2진수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-02089-마이너스2진수.cpp)|-|
 |68|BOJ|10845|큐|C99|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-10845-큐.c)|-|
 |67|BOJ|1676|팩토리얼 0의 개수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01676-팩토리얼0의개수.cpp)|-|
-|66|BOJ|3474|교수가 된 현우|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-03474-교수가된현우.cpp)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-03474-교수가된현우.md)|
+|66|BOJ|3474|교수가 된 현우|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-03474-교수가된현우.cpp)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-03474-교수가된현우.md)|
 |65|BOJ|1978|소수 찾기|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01978-소수찾기.cpp)|-|
 |64|BOJ|11720|숫자의 합|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-11720-숫자의합.cpp)|-|
 |63|BOJ|1340|연도 진행바|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01340-연도진행바.cpp)|-|
@@ -113,7 +113,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |37|BOJ|1254|팰린드롬 만들기|C99|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01254-팰린드롬만들기.c)|-|
 |36|BOJ|1051|숫자 정사각형|C99|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01051-숫자정사각형.c)|-|
 |35|BOJ|18111|마인크래프트|C99|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-18111-마인크래프트.c)|-|
-|34|BOJ|1010|다리 놓기|C99|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01010-다리놓기.c)|-|
+|34|BOJ|1010|다리 놓기|C99|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-01010-다리놓기.c)|-|
 |33|BOJ|10172|개|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10172-개.c)|-|
 |32|BOJ|1110|더하기 사이클|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01110-더하기사이클.c)|-|
 |31|BOJ|2577|숫자의 개수|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02577-숫자의개수.c)|-|
