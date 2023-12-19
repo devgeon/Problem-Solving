@@ -9,22 +9,25 @@ NUM_MAX = 1000000
 input = sys.stdin.readline
 
 
+def get_prime_factors(num: int, cache: list) -> list:
+    if cache[num - 2]:
+        return cache[num - 2]
+
+    n = 2
+    while n**2 <= NUM_MAX:
+        if num % n == 0:
+            cache[num - 2] = [n] + get_prime_factors(num // n, cache)
+            return cache[num - 2]
+        n += 1
+
+    return [num]
+
+
 def main():
     case_num = 1
     total_cases = int(input())
-    prime_table = [x for x in range(2, NUM_MAX + 1)]
+    cache = [[] for _ in range(2, NUM_MAX + 1)]
     output = ""
-
-    # 소수 목록 작성
-    num = 2
-    while num**2 <= NUM_MAX:
-        if prime_table[num - 2]:
-            n = 2 * num
-            while n <= NUM_MAX:
-                prime_table[n - 2] = 0
-                n += num
-        num += 1
-    prime_table = [x for x in prime_table if x]
 
     while case_num <= total_cases:
         _ = input()  # 수열 길이 입력 생략
@@ -34,15 +37,11 @@ def main():
         # 분자, 분모 입력 및 소인수분해
         for factors in [numerator_factors, denominator_factors]:
             for num in [int(x) for x in input().split()]:
-                for divisor in prime_table:
-                    if divisor > num:
-                        break
-                    while num % divisor == 0:
-                        num //= divisor
-                        if divisor in factors:
-                            factors[divisor] += 1
-                        else:
-                            factors[divisor] = 1
+                for prime in get_prime_factors(num, cache):
+                    if prime in factors:
+                        factors[prime] += 1
+                    else:
+                        factors[prime] = 1
 
         # 분자, 분모 약분 및 최종값 연산
         numerator = 1
