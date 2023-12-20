@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|128|BOJ|10996|별 찍기 - 21|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10996-별찍기21.java)|-|
 |127|BOJ|9363|큰 나눗셈|PyPy3|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-09363-큰나눗셈.py)|-|
 |126|BOJ|10164|격자상의 경로|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-10164-격자상의경로.cpp)|-|
 |125|BOJ|2444|별 찍기 - 7|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02444-별찍기7.java)|-|
