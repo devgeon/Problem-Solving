@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|138|BOJ|2775|부녀회장이 될테야|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02775-부녀회장이될테야.java)|-|
 |137|BOJ|2292|벌집|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02292-벌집.java)|-|
 |136|BOJ|2869|달팽이는 올라가고 싶다|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02869-달팽이는올라가고싶다.java)|-|
 |135|BOJ|2774|아름다운 수|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02774-아름다운수.java)|-|
