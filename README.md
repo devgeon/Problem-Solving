@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|147|BOJ|2460|지능형 기차 2|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02460-지능형기차2.cpp)|-|
 |146|BOJ|15920|선로에 마네킹이야!!|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-15920-선로에마네킹이야.cpp)|-|
 |145|BOJ|5789|한다 안한다|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05789-한다안한다.py)|-|
 |144|BOJ|2441|별 찍기 - 4|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02441-별찍기4.py)|-|
