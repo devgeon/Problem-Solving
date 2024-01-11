@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|150|BOJ|14913|등차수열에서 항 번호 찾기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-14913-등차수열에서항번호찾기.cpp)|-|
 |149|BOJ|2010|플러그|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02010-플러그.cpp)|-|
 |148|BOJ|15894|수학은 체육과목 입니다|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-15894-수학은체육과목입니다.cpp)|-|
 |147|BOJ|2460|지능형 기차 2|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02460-지능형기차2.cpp)|-|
