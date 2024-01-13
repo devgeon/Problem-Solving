@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|152|BOJ|24884|장작 넣기|Python3|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-24884-장작넣기.py)|-|
 |151|BOJ|17492|바둑알 점프|Python3|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-17492-바둑알점프.py)|-|
 |150|BOJ|14913|등차수열에서 항 번호 찾기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-14913-등차수열에서항번호찾기.cpp)|-|
 |149|BOJ|2010|플러그|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02010-플러그.cpp)|-|
