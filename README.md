@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|158|BOJ|23629|이 얼마나 끔찍하고 무시무시한 수식이니|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-23629-끔찍하고무시무시한수식.py)|-|
 |157|BOJ|17288|3개만!|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-17288-3개만.py)|-|
 |156|BOJ|27981|압도적 XOR 수|Python3|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-27981-압도적XOR수.py)|-|
 |155|BOJ|31247|2024는 무엇이 특별할까?|Python3|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-31247-2024는무엇이특별할까.py)|-|
