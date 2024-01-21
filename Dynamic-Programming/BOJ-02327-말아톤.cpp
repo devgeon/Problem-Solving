@@ -15,8 +15,7 @@ int main() {
     int height_requirement = 0, num_of_students = 0, height = 0, speed = 0;
     cin >> height_requirement >> num_of_students;
     vector<vector<int>> students(num_of_students, vector<int>(2, 0));
-    vector<vector<int>> table(num_of_students,
-                              vector<int>(height_requirement, -1));
+    vector<vector<int>> table(2, vector<int>(height_requirement, -1));
     for (int i = 0; i < num_of_students; i++) {
         cin >> students[i][HEIGHT] >> students[i][SPEED];
     }
@@ -25,19 +24,18 @@ int main() {
         height = students[r][HEIGHT];
         speed = students[r][SPEED];
         for (int c = 0; c < height_requirement; c++) {
-            if (r - 1 >= 0) {
-                table[r][c] = table[r - 1][c];
-                if (c - height >= 0) {
-                    table[r][c] =
-                        max(table[r][c], min(table[r - 1][c - height], speed));
-                }
+            table[r % 2][c] = table[(r + 1) % 2][c];
+            if (c >= height) {
+                table[r % 2][c] =
+                    max(table[r % 2][c],
+                        min(table[(r + 1) % 2][c - height], speed));
             }
-            if (c - height + 1 == 0) {
-                table[r][c] = max(table[r][c], speed);
+            if (c + 1 == height) {
+                table[r % 2][c] = max(table[r % 2][c], speed);
             }
         }
     }
 
-    cout << table[num_of_students - 1][height_requirement - 1] << endl;
+    cout << table[(num_of_students - 1) % 2][height_requirement - 1] << endl;
     return 0;
 }
