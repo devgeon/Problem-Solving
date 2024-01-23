@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|164|BOJ|5585|거스름돈|Python3|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-05585-거스름돈.py)|-|
 |163|BOJ|1236|성 지키기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01236-성지키기.cpp)|-|
 |162|BOJ|31263|대한민국을 지키는 가장 긴 힘|Python3|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-31263-대한민국을지키는가장긴힘.py)|-|
 |161|BOJ|2327|말아톤|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02327-말아톤.cpp)|-|
