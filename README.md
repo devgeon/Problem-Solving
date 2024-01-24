@@ -145,7 +145,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |43|BOJ|10699|오늘 날짜|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10699-오늘날짜.c)|-|
 |42|BOJ|1072|게임|C99|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01072-게임.c)|-|
 |41|BOJ|1543|문서 검색|C99|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01543-문서검색.c)|-|
-|40|BOJ|1796|신기한 키보드|C99|WA|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Other/BOJ-01796-신기한키보드.c)|-|
+|40|BOJ|1796|신기한 키보드|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01796-신기한키보드.cpp)|-|
 |39|BOJ|25083|새싹|C99|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-25083-새싹.c)|-|
 |38|BOJ|1003|피보나치 함수|C99|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01003-피보나치함수.c)|-|
 |37|BOJ|1254|팰린드롬 만들기|C99|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01254-팰린드롬만들기.c)|-|
