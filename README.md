@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|179|BOJ|14940|쉬운 최단거리|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-14940-쉬운최단거리.cpp)|-|
 |178|BOJ|1260|DFS와 BFS|C++17|AC|Graph Traversal|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-01260-DFS와BFS.cpp)|-|
 |177|BOJ|30242|🧩 N-Queen (Easy)|C++17|AC|Backtracking|[link](https://github.com/devgeon/Problem-Solving/blob/main/Backtracking/BOJ-30242-NQueenEasy.cpp)|-|
 |176|BOJ|22938|백발백준하는 명사수|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-22938-백발백준하는명사수.cpp)|-|
