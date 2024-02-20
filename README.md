@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|191|BOJ|30502|미역은 식물 아닌데요|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-30502-미역은식물아닌데요.cpp)|-|
 |190|BOJ|11726|2×n 타일링|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-11726-2×n타일링.cpp)|-|
 |189|BOJ|10448|유레카 이론|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-10448-유레카이론.cpp)|-|
 |188|BOJ|31409|착신 전환 소동|C++17|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-31409-착신전환소동.cpp)|-|
