@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|202|BOJ|7579|앱|C++17|AC|Knapsack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-07579-앱.cpp)|-|
 |201|BOJ|19699|소-난다!|C++17|AC|Backtracking|[link](https://github.com/devgeon/Problem-Solving/blob/main/Backtracking/BOJ-19699-소난다.cpp)|-|
 |200|BOJ|1932|정수 삼각형|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01932-정수삼각형.cpp)|-|
 |199|BOJ|2239|스도쿠|C++17|AC|Backtracking|[link](https://github.com/devgeon/Problem-Solving/blob/main/Backtracking/BOJ-02239-스도쿠.cpp)|-|
@@ -123,7 +124,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |102|BOJ|7569|토마토|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-07569-토마토.cpp)|-|
 |101|BOJ|4396|지뢰 찾기|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-04396-지뢰찾기.py)|-|
 |100|BOJ|17128|소가 정보섬에 올라온 이유|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-17128-소가정보섬에올라온이유.cpp)|-|
-|99|BOJ|12865|평범한 배낭|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-12865-평범한배낭.cpp)|-|
+|99|BOJ|12865|평범한 배낭|C++17|AC|Knapsack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-12865-평범한배낭.cpp)|-|
 |98|BOJ|2164|카드2|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-02164-카드2.cpp)|-|
 |97|BOJ|1446|지름길|Python3|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01446-지름길.py)|-|
 |96|BOJ|11008|복붙의 달인|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-11008-복붙의달인.cpp)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-11008-복붙의달인.md)|
