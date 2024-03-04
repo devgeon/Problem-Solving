@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|204|BOJ|1629|곱셈|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01629-곱셈.cpp)|-|
 |203|BOJ|27969|I LOVE JavaScript|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-27969-ILOVEJS.py)|-|
 |202|BOJ|7579|앱|C++17|AC|Knapsack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-07579-앱.cpp)|-|
 |201|BOJ|19699|소-난다!|C++17|AC|Backtracking|[link](https://github.com/devgeon/Problem-Solving/blob/main/Backtracking/BOJ-19699-소난다.cpp)|-|
