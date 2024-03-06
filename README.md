@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|206|BOJ|28117|prlong longf|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-28117-prlonglongf.cpp)|-|
 |205|BOJ|23080|스키테일 암호|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-23080-스키테일암호.cpp)|-|
 |204|BOJ|1629|곱셈|C++17|AC|Divide And Conquer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Divide-And-Conquer/BOJ-01629-곱셈.cpp)|-|
 |203|BOJ|27969|I LOVE JavaScript|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-27969-ILOVEJS.py)|-|
