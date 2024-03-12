@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|212|BOJ|14501|퇴사|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-14501-퇴사.cpp)|-|
 |211|BOJ|20365|블로그2|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-20365-블로그2.cpp)|-|
 |210|BOJ|2805|나무 자르기|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-02805-나무자르기.cpp)|-|
 |209|BOJ|16456|하와와 대학생쨩 하와이로 가는 거시와요~|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-16456-하와이로가는거시와요.cpp)|-|
