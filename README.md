@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|215|BOJ|10162|전자레인지|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10162-전자레인지.java)|-|
 |214|BOJ|22973|점프 숨바꼭질|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-22973-점프숨바꼭질.java)|-|
 |213|BOJ|25286|11월 11일|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-25286-11월11일.java)|-|
 |212|BOJ|14501|퇴사|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-14501-퇴사.cpp)|-|
