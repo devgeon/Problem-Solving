@@ -165,7 +165,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |78|BOJ|24900|한별 찍기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-24900-한별찍기.cpp)|-|
 |77|BOJ|13015|별 찍기 - 23|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-13015-별찍기23.cpp)|-|
 |76|BOJ|17478|재귀함수가 뭔가요?|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-17478-재귀함수가뭔가요.cpp)|-|
-|75|BOJ|1000|A+B|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01000-합.cpp)|-|
+|75|BOJ|1000|A+B|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01000-덧셈.cpp)|-|
 |74|BOJ|1152|단어의 개수|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01152-단어의개수.cpp)|-|
 |73|BOJ|15813|너의 이름은 몇 점이니?|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-15813-너의이름은몇점이니.cpp)|-|
 |72|BOJ|15829|Hashing|C++17|AC|Hashing|[link](https://github.com/devgeon/Problem-Solving/blob/main/Hashing/BOJ-15829-Hashing.cpp)|-|
