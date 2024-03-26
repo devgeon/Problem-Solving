@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|233|BOJ|17425|약수의 합|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-17425-약수의합.cpp)|-|
 |232|BOJ|16974|레벨 햄버거|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-16974-레벨햄버거.cpp)|-|
 |231|BOJ|1351|무한 수열|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-01351-무한수열.cpp)|-|
 |230|BOJ|11729|하노이 탑 이동 순서|Java 11|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-11729-하노이탑이동순서.java)|-|
