@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|236|BOJ|11050|이항 계수 1|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-11050-이항계수1.cpp)|-|
 |235|BOJ|17466|N! mod P (1)|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-17466-NFactModP1.cpp)|-|
 |234|BOJ|2437|저울|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-02437-저울.cpp)|-|
 |233|BOJ|17425|약수의 합|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-17425-약수의합.cpp)|-|
