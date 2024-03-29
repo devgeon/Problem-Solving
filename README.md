@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|238|BOJ|11819|The Shortest does not Mean the Simplest|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-11819-ShortestNotSimplest.cpp)|-|
 |237|BOJ|11051|이항 계수 2|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-11051-이항계수2.cpp)|-|
 |236|BOJ|11050|이항 계수 1|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-11050-이항계수1.cpp)|-|
 |235|BOJ|17466|N! mod P (1)|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-17466-NFactModP1.cpp)|-|
