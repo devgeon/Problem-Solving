@@ -194,7 +194,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |68|BOJ|10845|큐|C99|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-10845-큐.c)|-|
 |67|BOJ|1676|팩토리얼 0의 개수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01676-팩토리얼0의개수.cpp)|-|
 |66|BOJ|3474|교수가 된 현우|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-03474-교수가된현우.cpp)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-03474-교수가된현우.md)|
-|65|BOJ|1978|소수 찾기|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01978-소수찾기.cpp)|-|
+|65|BOJ|1978|소수 찾기|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-01978-소수찾기.cpp)|-|
 |64|BOJ|11720|숫자의 합|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-11720-숫자의합.cpp)|-|
 |63|BOJ|1340|연도 진행바|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01340-연도진행바.cpp)|-|
 |62|BOJ|1475|방 번호|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01475-방번호.cpp)|-|
