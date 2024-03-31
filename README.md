@@ -92,7 +92,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |171|BOJ|13458|시험 감독|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-13458-시험감독.cpp)|-|
 |170|BOJ|30009|포지션 제로|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-30009-포지션제로.cpp)|-|
 |169|BOJ|16479|컵라면 측정하기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-16479-컵라면측정하기.cpp)|-|
-|168|BOJ|2609|최대공약수와 최소공배수|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02609-최대공약수와최소공배수.cpp)|-|
+|168|BOJ|2609|최대공약수와 최소공배수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-02609-최대공약수와최소공배수.cpp)|-|
 |167|BOJ|4095|최대 정사각형|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-04095-최대정사각형.cpp)|-|
 |166|BOJ|1259|팰린드롬수|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01259-팰린드롬수.py)|-|
 |165|BOJ|1966|프린터 큐|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-01966-프린터큐.cpp)|-|
