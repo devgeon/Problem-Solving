@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|247|BOJ|2417|정수 제곱근|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-02417-정수제곱근.cpp)|-|
 |246|BOJ|15810|풍선 공장|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-15810-풍선공장.cpp)|-|
 |245|BOJ|11650|좌표 정렬하기|C++17|AC|Merge Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Merge-Sort/BOJ-11650-좌표정렬하기.cpp)|-|
 |244|BOJ|2475|검증수|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02475-검증수.cpp)|-|
