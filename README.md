@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|250|BOJ|1894|4번째 점|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-01894-4번째점.cpp)|-|
 |249|BOJ|1920|수 찾기|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-01920-수찾기.cpp)|-|
 |248|BOJ|10814|나이순 정렬|C++17|AC|Merge Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Merge-Sort/BOJ-10814-나이순정렬.cpp)|-|
 |247|BOJ|2417|정수 제곱근|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-02417-정수제곱근.cpp)|-|
