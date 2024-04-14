@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|254|BOJ|3231|카드놀이|C++17|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-03231-카드놀이.cpp)|-|
 |253|BOJ|1526|가장 큰 금민수|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01526-가장큰금민수.cpp)|-|
 |252|BOJ|1725|히스토그램|C++17|AC|Stack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Stack/BOJ-01725-히스토그램.cpp)|-|
 |251|BOJ|21870|시철이가 사랑한 GCD|C++17|AC|Divide And Conquer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Divide-And-Conquer/BOJ-21870-시철이가사랑한GCD.cpp)|-|
