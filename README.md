@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|260|BOJ|1934|최소공배수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-01934-최소공배수.cpp)|-|
 |259|BOJ|6159|Costume Party|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-06159-CostumeParty.cpp)|-|
 |258|BOJ|14910|오르막|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-14910-오르막.cpp)|-|
 |257|BOJ|12755|수면 장애|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-12755-수면장애.cpp)|-|
