@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|272|BOJ|9366|삼각형 분류|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-09366-삼각형분류.py)|-|
 |271|BOJ|2711|오타맨 고창영|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02711-오타맨고창영.java)|-|
 |270|BOJ|2745|진법 변환|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02745-진법변환.java)|-|
 |269|BOJ|1544|사이클 단어|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01544.사이클단어.java)|-|
