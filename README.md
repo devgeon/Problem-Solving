@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|273|BOJ|11053|가장 긴 증가하는 부분 수열|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-11053-가장긴증가하는부분수열.cpp)|-|
 |272|BOJ|9366|삼각형 분류|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-09366-삼각형분류.py)|-|
 |271|BOJ|2711|오타맨 고창영|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02711-오타맨고창영.java)|-|
 |270|BOJ|2745|진법 변환|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02745-진법변환.java)|-|
