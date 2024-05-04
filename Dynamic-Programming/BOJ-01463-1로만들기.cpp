@@ -1,5 +1,5 @@
 // BOJ-01463 / 1로 만들기
-// devgeon, 2023.12.04, C++17
+// devgeon, 2024.05.03, C++17
 // https://www.acmicpc.net/problem/1463
 
 #include <iostream>
@@ -8,13 +8,15 @@
 using namespace std;
 
 int main() {
-    int n = 0;
-    const int MAX = 1000001;
-    cin >> n;
-    vector<int> cache(n, MAX);
+    const int MAX = 1'000'000;
 
+    int num = 0;
+    cin >> num;
+
+    vector<int> cache(num, MAX);
     cache[0] = 0;
-    for (int i = 2; i <= n; i++) {
+
+    for (int i = 2; i <= num; i++) {
         if (i % 3 == 0) {
             cache[i - 1] = min(cache[i - 1], cache[i / 3 - 1] + 1);
         }
@@ -24,7 +26,6 @@ int main() {
         cache[i - 1] = min(cache[i - 1], cache[i - 2] + 1);
     }
 
-    cout << cache[n - 1];
-
+    cout << cache[num - 1] << endl;
     return 0;
 }
