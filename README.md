@@ -119,7 +119,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |185|BOJ|5073|삼각형과 세 변|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05073-삼각형과세변.cpp)|-|
 |184|BOJ|15922|아우으 우아으이야!!|C++17|AC|Sweeping|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-15922-아우으우아으이야.cpp)|-|
 |183|BOJ|21758|꿀 따기|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-21758-꿀따기.cpp)|-|
-|182|BOJ|1927|최소 힙|C++17|AC|Priority Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Heap/BOJ-01927-최소힙.cpp)|-|
+|182|BOJ|1927|최소 힙|C++17|AC|Priority Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Priority-Queue/BOJ-01927-최소힙.cpp)|-|
 |181|BOJ|18870|좌표 압축|C++17|AC|Merge Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Merge-Sort/BOJ-18870-좌표압축.cpp)|-|
 |180|BOJ|16931|겉넓이 구하기|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-16931-겉넓이구하기.cpp)|-|
 |179|BOJ|14940|쉬운 최단거리|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-14940-쉬운최단거리.cpp)|-|
