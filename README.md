@@ -21,6 +21,8 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|282|BOJ|11003|최솟값 찾기|C++17|AC|Deque|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Deque/BOJ-11003-최솟값찾기.cpp)|-|
+|281|BOJ|11003|최솟값 찾기|C++17|AC|Priority Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Priority-Queue/BOJ-11003-최솟값찾기.cpp)|-|
 |280|BOJ|9252|LCS 2|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-09252-LCS2.cpp)|-|
 |279|BOJ|9251|LCS|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-09251-LCS.cpp)|-|
 |278|BOJ|2294|동전 2|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02294-동전2.cpp)|-|
