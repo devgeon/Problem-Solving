@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|285|BOJ|17298|오큰수|C++17|AC|Stack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Stack/BOJ-17298-오큰수.cpp)|-|
 |284|BOJ|14289|본대 산책 3|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-14289-본대산책3.cpp)|-|
 |283|BOJ|2003|수들의 합 2|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-02003-수들의합2.cpp)|-|
 |282|BOJ|11003|최솟값 찾기|C++17|AC|Deque|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Deque/BOJ-11003-최솟값찾기.cpp)|-|
