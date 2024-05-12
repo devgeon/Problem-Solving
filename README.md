@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|287|BOJ|2180|소방서의 고민|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-02180-소방서의고민.cpp)|-|
 |286|BOJ|11047|동전 0|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-11047-동전0.cpp)|-|
 |285|BOJ|17298|오큰수|C++17|AC|Stack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Stack/BOJ-17298-오큰수.cpp)|-|
 |284|BOJ|14289|본대 산책 3|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-14289-본대산책3.cpp)|-|
