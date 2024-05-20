@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|296|BOJ|15565|귀여운 라이언|C++17|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-15565-귀여운라이언.cpp)|-|
 |295|BOJ|1002|터렛|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-01002-터렛.cpp)|-|
 |294|BOJ|10158|개미|C++17|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-10158-개미.cpp)|-|
 |293|BOJ|2232|지뢰|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-02232-지뢰.cpp)|-|
