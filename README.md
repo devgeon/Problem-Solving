@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|298|BOJ|11728|배열 합치기|C++17|AC|Merge Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Merge-Sort/BOJ-11728-배열합치기.cpp)|-|
 |297|BOJ|24480|알고리즘 수업 - 깊이 우선 탐색 2|C++17|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-24480-알고리즘수업_깊이우선탐색2.cpp)|-|
 |296|BOJ|15565|귀여운 라이언|C++17|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-15565-귀여운라이언.cpp)|-|
 |295|BOJ|1002|터렛|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-01002-터렛.cpp)|-|
