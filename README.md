@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|303|BOJ|1949|우수 마을|C++17|AC|DP on Trees|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/DP-Tree/BOJ-01949-우수마을.cpp)|-|
 |302|BOJ|28360|양동이 게임|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-28360-양동이게임.cpp)|-|
 |301|BOJ|2252|줄 세우기|C++17|AC|Topological Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Topological-Sort/BOJ-02252-줄세우기.cpp)|-|
 |300|BOJ|15681|트리와 쿼리|C++17|AC|DP on Trees|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/DP-Tree/BOJ-15681-트리와쿼리.cpp)|-|
