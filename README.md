@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|314|BOJ|31747|점호|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-31747-점호.cpp)|-|
 |313|BOJ|17204|죽음의 게임|C++17|AC|Graph Traversal|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-17204-죽음의게임.cpp)|-|
 |312|BOJ|28464|Potato|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-28464-Potato.cpp)|-|
 |311|BOJ|20363|당근 키우기|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-20363-당근키우기.cpp)|-|
