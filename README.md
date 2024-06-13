@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|318|BOJ|27865|랜덤 게임?|C++17|AC|Randomization|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-27865-랜덤게임.cpp)|-|
 |317|BOJ|18766|카드 바꿔치기|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-18766-카드바꿔치기.py)|-|
 |316|BOJ|3213|피자|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-03213-피자.cpp)|-|
 |315|BOJ|19564|반복|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-19564-반복.cpp)|-|
