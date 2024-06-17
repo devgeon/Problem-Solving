@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|322|BOJ|23561|Young한 에너지는 부족하다|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-23561-Young한에너지는부족하다.cpp)|-|
 |321|BOJ|10103|주사위 게임|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10103-주사위게임.cpp)|-|
 |320|BOJ|15903|카드 합체 놀이|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-15903-카드합체놀이.cpp)|-|
 |319|BOJ|14566|Dongjak N1|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-14566-DongjakN1.cpp)|-|
