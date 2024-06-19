@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|324|BOJ|2776|암기왕|C++17|AC|Hash Table|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Table/BOJ-02776-암기왕.cpp)|-|
 |323|BOJ|27514|1차원 2048|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-27514-1차원2048.cpp)|-|
 |322|BOJ|23561|Young한 에너지는 부족하다|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-23561-Young한에너지는부족하다.cpp)|-|
 |321|BOJ|10103|주사위 게임|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10103-주사위게임.cpp)|-|
