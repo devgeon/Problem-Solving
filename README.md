@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|328|BOJ|31533|Furiosa AI 영상 처리 가속|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-31533-FuriosaAI영상처리가속.cpp)|-|
 |327|BOJ|16237|이삿짐센터|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-16237-이삿짐센터.cpp)|-|
 |326|BOJ|25312|200% Mixed Juice!|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25312-200percentMixedJuice.cpp)|-|
 |325|BOJ|2015|수들의 합 4|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-02015-수들의합4.cpp)|-|
