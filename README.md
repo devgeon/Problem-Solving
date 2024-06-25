@@ -21,6 +21,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|330|BOJ|18258|큐 2|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-18258-큐2.cpp)|-|
 |329|BOJ|1515|수 이어 쓰기|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01515-수이어쓰기.cpp)|-|
 |328|BOJ|31533|Furiosa AI 영상 처리 가속|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-31533-FuriosaAI영상처리가속.cpp)|-|
 |327|BOJ|16237|이삿짐센터|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-16237-이삿짐센터.cpp)|-|
