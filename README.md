@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|333|BOJ|26015|Enjoyable Entree|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-26015-EnjoyableEntree.cpp)|-|
 |332|BOJ|26013|Chaotic Construction|C++17|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Tree/BOJ-26013-ChaoticConstruction.cpp)|-|
 |331|BOJ|28065|SW 수열 구하기|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-28065-SW수열구하기.cpp)|-|
 |330|BOJ|18258|큐 2|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-18258-큐2.cpp)|-|
