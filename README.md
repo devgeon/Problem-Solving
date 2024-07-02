@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|339|BOJ|21920|서로소 평균|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-21920-서로소평균.cpp)|-|
 |338|BOJ|30648|트릭 플라워|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-30648-트릭플라워.cpp)|-|
 |337|BOJ|27920|카드 뒤집기|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-27920-카드뒤집기.cpp)|-|
 |336|BOJ|11048|이동하기|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-11048-이동하기.cpp)|-|
