@@ -17,26 +17,15 @@ int main() {
     cin >> text >> interval;
 
     vector<string> split(interval, "");
-    for (auto c = text.begin(); c != text.end();) {
-        for (string &subtext : split) {
-            if (c == text.end()) {
-                break;
-            }
-            subtext.push_back(*c);
-            c++;
-        }
+    for (int i = 0; i < text.size(); i++) {
+        split[i % interval].push_back(text[i]);
     }
 
     for (string &subtext : split) {
         sort(subtext.begin(), subtext.end());
     }
-    for (int i = 0, end = (text.size() - 1) / interval + 1; i < end; i++) {
-        for (string &subtext : split) {
-            if (i == subtext.size()) {
-                break;
-            }
-            cout << subtext[i];
-        }
+    for (int i = 0; i < text.size(); i++) {
+        cout << split[i % interval][i / interval];
     }
     cout << endl;
 
