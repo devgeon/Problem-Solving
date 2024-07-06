@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|343|BOJ|29994|Investigating Zeroes and Ones|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-29994-InvestigatingZeroesAndOnes.cpp)|-|
 |342|BOJ|29997|Lexicographical Challenge|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-29997-LexicographicalChallenge.cpp)|-|
 |341|BOJ|29991|Fatigue-Fighting Vacation|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-29991-FatigueFightingVacation.cpp)|-|
 |340|BOJ|7565|Ranking List|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-07565-RankingList.cpp)|-|
