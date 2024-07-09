@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|346|BOJ|1977|완전제곱수|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01977-완전제곱수.cpp)|-|
 |345|BOJ|8061|Bitmap|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-08061-Bitmap.cpp)|-|
 |344|BOJ|1969|DNA|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-01969-DNA.cpp)|-|
 |343|BOJ|29994|Investigating Zeroes and Ones|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-29994-InvestigatingZeroesAndOnes.cpp)|-|
