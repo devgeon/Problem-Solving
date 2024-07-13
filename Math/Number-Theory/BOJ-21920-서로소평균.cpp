@@ -1,5 +1,5 @@
 // BOJ-21920 / 서로소 평균
-// devgeon, 2024.07.02, C++17
+// devgeon, 2024.07.13, C++17
 // https://www.acmicpc.net/problem/21920
 
 #include <iostream>
@@ -22,7 +22,7 @@ int main() {
 
     vector<int> prime_factors;
     cin >> num;
-    for (int i = 2; i * 1 <= num; i++) {
+    for (int i = 2; i * i <= num; i++) {
         if (num % i) {
             continue;
         }
@@ -30,6 +30,9 @@ int main() {
         while (num % i == 0) {
             num /= i;
         }
+    }
+    if (num != 1) {
+        prime_factors.push_back(num);
     }
 
     for (int n : seq) {
