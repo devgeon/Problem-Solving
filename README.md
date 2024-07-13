@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|350|BOJ|21555|빛의 돌 옮기기|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-21555-빛의돌옮기기.cpp)|-|
 |349|BOJ|23276|Locust Locus|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-23276-LocustLocus.cpp)|-|
 |348|BOJ|23274|Joint Jog Jam|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-23274-JointJogJam.cpp)|-|
 |347|BOJ|26042|식당 입구 대기 줄|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26042-식당입구대기줄.cpp)|-|
