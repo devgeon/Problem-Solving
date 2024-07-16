@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|353|BOJ|7771|배틀쉽|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-07771-배틀쉽.cpp)|-|
 |352|BOJ|9468|Islands in the Data Stream|C++17|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-09468-IslandsInTheDataStream.cpp)|-|
 |351|BOJ|8979|올림픽|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-08979-올림픽.cpp)|-|
 |350|BOJ|21555|빛의 돌 옮기기|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-21555-빛의돌옮기기.cpp)|-|
