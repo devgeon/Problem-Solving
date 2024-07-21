@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|358|BOJ|26024|Ace Arbiter|C++17|AC|Case Work|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26024-AceArbiter.cpp)|-|
 |357|BOJ|26026|Coffee Cup Combo|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26026-CoffeeCupCombo.cpp)|-|
 |356|BOJ|26027|Disc District|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-26027-DiscDistrict.cpp)|-|
 |355|BOJ|26031|Highest Hill|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-26031-HighestHill.cpp)|-|
