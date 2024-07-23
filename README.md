@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|360|BOJ|1717|집합의 표현|C++17|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-01717-집합의표현.cpp)|-|
 |359|BOJ|25206|너의 평점은|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-25206-너의평점은.cpp)|-|
 |358|BOJ|26024|Ace Arbiter|C++17|AC|Case Work|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26024-AceArbiter.cpp)|-|
 |357|BOJ|26026|Coffee Cup Combo|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26026-CoffeeCupCombo.cpp)|-|
