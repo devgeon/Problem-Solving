@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|367|BOJ|3010|페그|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-03010-페그.cpp)|-|
 |366|BOJ|12731|열차 시간표(Small)|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-12731-열차시간표_Small.cpp)|-|
 |365|BOJ|26001|Jagged Skyline|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-26001-JaggedSkyline.cpp)|-|
 |364|BOJ|26000|Imperfect Imperial Units|Python3|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-26000-ImperfectImperialUnits.py)|-|
