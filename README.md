@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|372|BOJ|10451|순열 사이클|C++17|AC|Graph Traversal|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-10451-순열사이클.cpp)|-|
 |371|BOJ|25062|Boundary|C++17|AC|Euclidean|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-25062-Boundary.cpp)|-|
 |370|BOJ|25053|Organizing SWERC|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25053-OrganizingSWERC.cpp)|-|
 |369|BOJ|25058|Bottle Arrangements|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-25058-BottleArrangements.cpp)|-|
