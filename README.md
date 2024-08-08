@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|376|BOJ|1158|요세푸스 문제|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-01158-요세푸스문제.cpp)|-|
 |375|BOJ|26007|Codepowers|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-26007-Codepowers.cpp)|-|
 |374|BOJ|15803|PLAYERJINAH’S BOTTLEGROUNDS|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-15803-PLAYERJINAHSBOTTLEGROUNDS.cpp)|-|
 |373|BOJ|25516|거리가 k이하인 트리 노드에서 사과 수확하기|C++17|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-25516-트리에서사과수확하기.cpp)|-|
