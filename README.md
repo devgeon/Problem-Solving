@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|378|BOJ|30619|내 집 마련하기|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-30619-내집마련하기.cpp)|-|
 |377|BOJ|14732|행사장 대여 (Small)|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-14732-행사장대여_Small.cpp)|-|
 |376|BOJ|1158|요세푸스 문제|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-01158-요세푸스문제.cpp)|-|
 |375|BOJ|26007|Codepowers|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-26007-Codepowers.cpp)|-|
