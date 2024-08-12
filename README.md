@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|380|BOJ|6417|코코넛 그 두 번째 이야기|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-06417-코코넛그두번째이야기.cpp)|-|
 |379|BOJ|27165|모든 곳을 안전하게|C++17|AC|Case Work|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-27165-모든곳을안전하게.cpp)|-|
 |378|BOJ|30619|내 집 마련하기|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-30619-내집마련하기.cpp)|-|
 |377|BOJ|14732|행사장 대여 (Small)|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-14732-행사장대여_Small.cpp)|-|
