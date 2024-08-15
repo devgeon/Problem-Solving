@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|383|BOJ|6123|O Those Fads|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-06123-OThoseFads.cpp)|-|
 |382|BOJ|26071|오락실에 간 총총이|C++17|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-26071-오락실에간총총이.cpp)|-|
 |381|BOJ|27980|문자열 게임|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-27980-문자열게임.cpp)|-|
 |380|BOJ|6417|코코넛 그 두 번째 이야기|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-06417-코코넛그두번째이야기.cpp)|-|
