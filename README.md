@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|387|BOJ|12034|김인천씨의 식료품가게 (Large)|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-12034-김인천씨의식료품가게_Large.cpp)|-|
 |386|BOJ|12033|김인천씨의 식료품가게 (Small)|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-12033-김인천씨의식료품가게_Small.cpp)|-|
 |385|BOJ|30618|donstructive|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-30618-donstructive.cpp)|-|
 |384|BOJ|4689|Basically Speaking|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-04689-BasicallySpeaking.cpp)|-|
