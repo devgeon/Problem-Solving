@@ -56,7 +56,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |357|BOJ|26026|Coffee Cup Combo|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26026-CoffeeCupCombo.cpp)|-|
 |356|BOJ|26027|Disc District|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-26027-DiscDistrict.cpp)|-|
 |355|BOJ|26031|Highest Hill|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-26031-HighestHill.cpp)|-|
-|354|BOJ|14425|문자열 집합|C++17|AC|Hash Table|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Table/BOJ-14425-문자열집합.cpp)|-|
+|354|BOJ|14425|문자열 집합|C++17|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-14425-문자열집합.cpp)|-|
 |353|BOJ|7771|배틀쉽|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-07771-배틀쉽.cpp)|-|
 |352|BOJ|9468|Islands in the Data Stream|C++17|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-09468-IslandsInTheDataStream.cpp)|-|
 |351|BOJ|8979|올림픽|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-08979-올림픽.cpp)|-|
@@ -86,7 +86,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |327|BOJ|16237|이삿짐센터|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-16237-이삿짐센터.cpp)|-|
 |326|BOJ|25312|200% Mixed Juice!|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25312-200percentMixedJuice.cpp)|-|
 |325|BOJ|2015|수들의 합 4|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-02015-수들의합4.cpp)|-|
-|324|BOJ|2776|암기왕|C++17|AC|Hash Table|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Table/BOJ-02776-암기왕.cpp)|-|
+|324|BOJ|2776|암기왕|C++17|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-02776-암기왕.cpp)|-|
 |323|BOJ|27514|1차원 2048|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-27514-1차원2048.cpp)|-|
 |322|BOJ|23561|Young한 에너지는 부족하다|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-23561-Young한에너지는부족하다.cpp)|-|
 |321|BOJ|10103|주사위 게임|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10103-주사위게임.cpp)|-|
@@ -106,7 +106,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |307|BOJ|1753|최단경로|C++17|AC|SSSP(Dijkstra)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/BOJ-01753-최단경로.cpp)|-|
 |306|BOJ|1197|최소 스패닝 트리|C++17|AC|MST(Kruskal)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Minimum-Spanning-Tree/BOJ-01197-최소스패닝트리.cpp)|-|
 |305|BOJ|1976|여행 가자|C++17|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-01976-여행가자.cpp)|-|
-|304|BOJ|20920|영단어 암기는 괴로워|C++17|AC|Hash Table|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Table/BOJ-20920-영단어암기는어려워.cpp)|-|
+|304|BOJ|20920|영단어 암기는 괴로워|C++17|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-20920-영단어암기는어려워.cpp)|-|
 |303|BOJ|1949|우수 마을|C++17|AC|DP on Trees|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/DP-Tree/BOJ-01949-우수마을.cpp)|-|
 |302|BOJ|28360|양동이 게임|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-28360-양동이게임.cpp)|-|
 |301|BOJ|2252|줄 세우기|C++17|AC|Topological Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Topological-Sort/BOJ-02252-줄세우기.cpp)|-|
