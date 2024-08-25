@@ -16,21 +16,18 @@ int main() {
     long long answer = 0;
     cin >> num;
 
-    vector<int> index(num, 0);
-    vector<int> trees(num, 0);
     vector<int> growth(num, 0);
-    for (int i = 0; i < num; i++) {
-        index[i] = i;
-        cin >> trees[i];
+    for (int i = 0, height = 0; i < num; i++) {
+        cin >> height;
+        answer += height;
     }
     for (int &rate : growth) {
         cin >> rate;
     }
-    sort(index.begin(), index.end(),
-         [&growth](int i, int j) -> bool { return growth[i] < growth[j]; });
+    sort(growth.begin(), growth.end());
 
     for (int i = 0; i < num; i++) {
-        answer += trees[index[i]] + growth[index[i]] * i;
+        answer += growth[i] * i;
     }
     cout << answer << endl;
 
