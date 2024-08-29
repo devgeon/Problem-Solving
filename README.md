@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|398|BOJ|16395|파스칼의 삼각형|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-16395-파스칼의삼각형.cpp)|-|
 |397|BOJ|2157|여행|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02157-여행.cpp)|-|
 |396|BOJ|1620|나는야 포켓몬 마스터 이다솜|C++17|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-01620-나는야포켓몬마스터이다솜.cpp)|-|
 |395|BOJ|8983|사냥꾼|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-08983-사냥꾼.cpp)|-|
