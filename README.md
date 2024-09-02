@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|402|BOJ|11055|가장 큰 증가하는 부분 수열|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-11055-가장큰증가하는부분수열.cpp)|-|
 |401|BOJ|25204|문자열 정렬|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-25204-문자열정렬.cpp)|-|
 |400|BOJ|17212|달나라 토끼를 위한 구매대금 지불 도우미|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-17212-구매대금지불도우미.cpp)|-|
 |399|BOJ|17952|과제는 끝나지 않아!|C++17|AC|Stack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Stack/BOJ-17952-과제는끝나지않아.cpp)|-|
