@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|404|BOJ|23029|시식 코너는 나의 것|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-23029-시식코너는나의것.cpp)|-|
 |403|BOJ|5904|Moo 게임|C++17|AC|Divide And Conquer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Divide-And-Conquer/BOJ-05904-Moo게임.cpp)|-|
 |402|BOJ|11055|가장 큰 증가하는 부분 수열|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-11055-가장큰증가하는부분수열.cpp)|-|
 |401|BOJ|25204|문자열 정렬|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-25204-문자열정렬.cpp)|-|
