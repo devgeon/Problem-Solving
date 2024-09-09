@@ -158,7 +158,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |272|BOJ|9366|삼각형 분류|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-09366-삼각형분류.py)|-|
 |271|BOJ|2711|오타맨 고창영|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02711-오타맨고창영.java)|-|
 |270|BOJ|2745|진법 변환|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02745-진법변환.java)|-|
-|269|BOJ|1544|사이클 단어|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01544.사이클단어.java)|-|
+|269|BOJ|1544|사이클 단어|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01544-사이클단어.java)|-|
 |268|BOJ|20001|고무오리 디버깅|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-20001-고무오리디버깅.java)|-|
 |267|BOJ|25624|SNUPTI|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-25624-SNUPTI.py)|-|
 |266|BOJ|14652|나는 행복합니다~|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-14652-나는행복합니다.java)|-|
