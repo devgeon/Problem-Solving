@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|413|BOJ|1337|올바른 배열|Java 11|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-01337-올바른배열.java)|-|
 |412|BOJ|20206|푸앙이가 길을 건너간 이유|Java 11|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-20206-푸앙이가길을건너간이유.java)|-|
 |411|BOJ|26597|이 사람 왜 이렇게 1122를 좋아함?|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26597-이사람왜이렇게1122를좋아함.java)|-|
 |410|BOJ|18124|치삼이의 종이 자르기|Java 11|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-18124-치삼이의종이자르기.java)|-|
