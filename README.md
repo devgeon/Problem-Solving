@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|415|BOJ|4378|트ㅏㅊ;|Java 11|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-04378-트ㅏㅊ.java)|-|
 |414|BOJ|31883|FA수의 진|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-31883-FA수의진.java)|-|
 |413|BOJ|1337|올바른 배열|Java 11|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-01337-올바른배열.java)|-|
 |412|BOJ|20206|푸앙이가 길을 건너간 이유|Java 11|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-20206-푸앙이가길을건너간이유.java)|-|
