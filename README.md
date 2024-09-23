@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|420|BOJ|2986|파스칼|Java 11|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-02986-파스칼.java)|-|
 |419|BOJ|10280|Pizza voting|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-10280-Pizzavoting.java)|-|
 |418|BOJ|9095|1, 2, 3 더하기|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-09095-123더하기.java)|-|
 |417|BOJ|2133|타일 채우기|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02133-타일채우기.java)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02133-타일채우기.md)|
@@ -32,7 +33,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |410|BOJ|18124|치삼이의 종이 자르기|Java 11|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-18124-치삼이의종이자르기.java)|-|
 |409|BOJ|9657|돌 게임 3|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-09657-돌게임3.java)|-|
 |408|BOJ|15761|Lemonade Line|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-15761-LemonadeLine.java)|-|
-|407|BOJ|6052|Cow Pals|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-06052-CowPals.cpp)|-
+|407|BOJ|6052|Cow Pals|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-06052-CowPals.cpp)|-|
 |406|BOJ|12867|N차원 여행|C++17|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-12867-N차원여행.cpp)|-|
 |405|BOJ|11649|Xedni Drawkcab|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-11649-XedniDrawkcab.cpp)|-|
 |404|BOJ|23029|시식 코너는 나의 것|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-23029-시식코너는나의것.cpp)|-|
