@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|424|BOJ|1764|듣보잡|C++17|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-01764-듣보잡.cpp)|-|
 |423|BOJ|1541|잃어버린 괄호|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-01541-잃어버린괄호.cpp)|-|
 |422|BOJ|11659|구간 합 구하기 4|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-11659-구간합구하기4.cpp)|-|
 |421|BOJ|11723|집합|C++17|AC|Bitmask|[link](https://github.com/devgeon/Problem-Solving/blob/main/Bitmask/BOJ-11723-집합.cpp)|-|
