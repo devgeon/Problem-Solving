@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|427|BOJ|5525|IOIOI|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05525-IOIOI.cpp)|-|
 |426|BOJ|30805|사전 순 최대 공통 부분 수열|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-30805-사전순최대공통부분수열.cpp)|-|
 |425|BOJ|2630|색종이 만들기|C++17|AC|Divide And Conquer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Divide-And-Conquer/BOJ-02630-색종이만들기.cpp)|-|
 |424|BOJ|1764|듣보잡|C++17|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-01764-듣보잡.cpp)|-|
