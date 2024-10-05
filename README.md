@@ -20,7 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
-|432|BOJ|11404|플로이드|C++17|AC|APSP(Floyd Warshall)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Floyd-Warshall/BOJ-11404-플로이드.cpp)|-|
+|432|BOJ|11404|플로이드|C++17|AC|Floyd Warshall|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Floyd-Warshall/BOJ-11404-플로이드.cpp)|-|
 |431|BOJ|11660|구간 합 구하기 5|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-11660-구간합구하기5.cpp)|-|
 |430|BOJ|9465|스티커|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-09465-스티커.cpp)|-|
 |429|BOJ|1149|RGB거리|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01149-RGB거리.cpp)|-|
@@ -145,7 +145,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |310|BOJ|28324|스케이트 연습|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-28324-스케이트연습.cpp)|-|
 |309|BOJ|9372|상근이의 여행|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-09372-상근이의여행.cpp)|-|
 |308|BOJ|29198|이번에는 C번이 문자열|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-29198-이번에는C번이문자열.cpp)|-|
-|307|BOJ|1753|최단경로|C++17|AC|SSSP(Dijkstra)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/BOJ-01753-최단경로.cpp)|-|
+|307|BOJ|1753|최단경로|C++17|AC|Dijkstra|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Dijkstra/BOJ-01753-최단경로.cpp)|-|
 |306|BOJ|1197|최소 스패닝 트리|C++17|AC|MST(Kruskal)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Minimum-Spanning-Tree/BOJ-01197-최소스패닝트리.cpp)|-|
 |305|BOJ|1976|여행 가자|C++17|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-01976-여행가자.cpp)|-|
 |304|BOJ|20920|영단어 암기는 괴로워|C++17|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-20920-영단어암기는어려워.cpp)|-|
