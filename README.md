@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|434|BOJ|1238|파티|C++17|AC|Dijkstra|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Dijkstra/BOJ-01238-파티.cpp)|-|
 |433|BOJ|12841|정보대 등산|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-12841-정보대등산.cpp)|-|
 |432|BOJ|11404|플로이드|C++17|AC|Floyd Warshall|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Floyd-Warshall/BOJ-11404-플로이드.cpp)|-|
 |431|BOJ|11660|구간 합 구하기 5|C++17|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-11660-구간합구하기5.cpp)|-|
