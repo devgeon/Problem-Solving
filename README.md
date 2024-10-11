@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|438|BOJ|17845|수강 과목|C++17|AC|Knapsack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-17845-수강과목.cpp)|-|
 |437|BOJ|2553|마지막 팩토리얼 수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-02553-마지막팩토리얼수.cpp)|-|
 |436|BOJ|19621|회의실 배정 2|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-19621-회의실배정2.cpp)|-|
 |435|BOJ|1865|웜홀|C++17|AC|Bellman Ford|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Bellman-Ford/BOJ-01865-웜홀.cpp)|-|
