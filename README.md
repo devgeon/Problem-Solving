@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|440|BOJ|10773|제로|C++17|AC|Stack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Stack/BOJ-10773-제로.cpp)|-|
 |439|BOJ|31564|육각타일미로 탈출기|C++17|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-31564-육각타일미로탈출기.cpp)|-|
 |438|BOJ|17845|수강 과목|C++17|AC|Knapsack|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-17845-수강과목.cpp)|-|
 |437|BOJ|2553|마지막 팩토리얼 수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-02553-마지막팩토리얼수.cpp)|-|
