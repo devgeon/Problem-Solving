@@ -7,46 +7,42 @@
 
 using namespace std;
 
-bool check_threat(vector<vector<bool>> &board, int row, int col);
+bool check_threat(vector<int> &queen_index, int row, int col);
 
-int solve(vector<vector<bool>> &board, int num, int row = 0);
+int solve(vector<int> &queen_index, int row = 0);
 
 int main() {
     int size = 0;
     cin >> size;
 
-    vector<vector<bool>> board(size, vector<bool>(size, false));
-    cout << solve(board, size) << endl;
+    vector<int> queen_index(size, -1);
+    cout << solve(queen_index) << endl;
 
     return 0;
 }
 
-bool check_threat(vector<vector<bool>> &board, int row, int col) {
-    int size = board.size();
-    int forward_diff = row - col, reverse_diff = row - (size - col - 1);
-    for (int i = 0, r1 = 0, r2 = 0; i < size; i++) {
-        r1 = i + forward_diff, r2 = size - i - 1 + reverse_diff;
-        if (board[row][i] || board[i][col] ||
-            (r1 >= 0 && r1 < size && board[r1][i]) ||
-            (r2 >= 0 && r2 < size && board[r2][i])) {
+bool check_threat(vector<int> &queen_index, int row, int col) {
+    for (int i = 0; i < row; i++) {
+        if (queen_index[i] == col ||
+            abs(queen_index[i] - col) == abs(i - row)) {
             return true;
         }
     }
     return false;
 }
 
-int solve(vector<vector<bool>> &board, int num, int row) {
-    int size = board.size(), count = 0;
-    if (row == size && num == 0) {
+int solve(vector<int> &queen_index, int row) {
+    int size = queen_index.size(), count = 0;
+    if (row == size) {
         return 1;
     }
     for (int col = 0; col < size; col++) {
-        if (check_threat(board, row, col)) {
+        if (check_threat(queen_index, row, col)) {
             continue;
         }
-        board[row][col] = true;
-        count += solve(board, num - 1, row + 1);
-        board[row][col] = false;
+        queen_index[row] = col;
+        count += solve(queen_index, row + 1);
+        queen_index[row] = -1;
     }
     return count;
 }
