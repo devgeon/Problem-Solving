@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|447|BOJ|1789|수들의 합|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-01789-수들의합.cpp)|-|
 |446|BOJ|11651|좌표 정렬하기 2|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-11651-좌표정렬하기2.cpp)|-|
 |445|BOJ|18132|내 이진트리를 돌려줘!!!|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-18132-내이진트리를돌려줘.cpp)|-|
 |444|BOJ|32402|TPS|C++17|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-32402-TPS.cpp)|-|
