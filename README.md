@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|467|BOJ|30506|가위 가위 가위|C++17|AC|Differential Cryptanalysis|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-30506-가위가위가위.cpp)|-|
 |466|BOJ|2467|용액|C++17|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-02467-용액.cpp)|-|
 |465|BOJ|1806|부분합|C++17|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-01806-부분합.cpp)|-|
 |464|BOJ|7453|합이 0인 네 정수|C++17|AC|Meet In The Middle|[link](https://github.com/devgeon/Problem-Solving/blob/main/Meet-In-The-Middle/BOJ-07453-합이0인네정수.cpp)|-|
