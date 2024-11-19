@@ -1,3 +1,7 @@
+// BOJ-03273 / 두 수의 합
+// devgeon, 2024.11.16, C++17
+// https://www.acmicpc.net/problem/3273
+
 #include <algorithm>
 #include <iostream>
 #include <vector>
