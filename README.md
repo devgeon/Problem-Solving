@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|474|BOJ|11588|GEPPETTO|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-11588-GEPPETTO.cpp)|-|
 |473|BOJ|16165|걸그룹 마스터 준석이|Java 11|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-16165-걸그룹마스터준석이.java)|-|
 |472|BOJ|1181|단어 정렬|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-01181-단어정렬.cpp)|-|
 |471|BOJ|3273|두 수의 합|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-03273-두수의합.cpp)|-|
