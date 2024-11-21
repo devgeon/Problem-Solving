@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|476|BOJ|26150|Identify, Sort, Index, Solve|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-26150-IdentifySortIndexSolve.cpp)|-|
 |475|BOJ|1758|알바생 강호|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-01758-알바생강호.cpp)|-|
 |474|BOJ|11588|GEPPETTO|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-11588-GEPPETTO.cpp)|-|
 |473|BOJ|16165|걸그룹 마스터 준석이|Java 11|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-16165-걸그룹마스터준석이.java)|-|
