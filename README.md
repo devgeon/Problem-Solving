@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|479|BOJ|9655|돌 게임|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-09655-돌게임.cpp)|-|
 |478|BOJ|1005|ACM Craft|C++17|AC|Topological Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Topological-Sort/BOJ-01005-ACMCraft.cpp)|-|
 |477|BOJ|31797|아~파트 아파트|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-31797-아파트아파트.cpp)|-|
 |476|BOJ|26150|Identify, Sort, Index, Solve|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-26150-IdentifySortIndexSolve.cpp)|-|
