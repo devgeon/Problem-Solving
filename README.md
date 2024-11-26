@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|481|BOJ|30089|새로운 문자열 만들기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-30089-새로운문자열만들기.cpp)|-|
 |480|BOJ|5637|가장 긴 단어|C++17|AC|Parsing|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05637-가장긴단어.cpp)|-|
 |479|BOJ|9655|돌 게임|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-09655-돌게임.cpp)|-|
 |478|BOJ|1005|ACM Craft|C++17|AC|Topological Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Topological-Sort/BOJ-01005-ACMCraft.cpp)|-|
