@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|483|BOJ|11576|Base Conversion|Java 11|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-11576-BaseConversion.java)|-|
 |482|BOJ|10897|Inherited disease|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-10897-Inheriteddisease.cpp)|-|
 |481|BOJ|30089|새로운 문자열 만들기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-30089-새로운문자열만들기.cpp)|-|
 |480|BOJ|5637|가장 긴 단어|C++17|AC|Parsing|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05637-가장긴단어.cpp)|-|
