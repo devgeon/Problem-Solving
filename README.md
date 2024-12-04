@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|489|BOJ|1550|16진수|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01550-16진수.cpp)|-|
 |488|BOJ|5635|생일|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-05635-생일.cpp)|-|
 |487|BOJ|7785|회사에 있는 사람|C++17|AC|Binary Search Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Binary-Search-Tree/BOJ-07785-회사에있는사람.cpp)|-|
 |486|BOJ|10815|숫자 카드|Python3|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-10815-숫자카드.py)|-|
