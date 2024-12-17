@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|500|BOJ|16505|별|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-16505-별.cpp)|-|
 |499|BOJ|6977|Pattern Generator|C++17|AC|Backtracking|[link](https://github.com/devgeon/Problem-Solving/blob/main/Backtracking/BOJ-06977-PatternGenerator.cpp)|-|
 |498|BOJ|27922|현대모비스 입사 프로젝트|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-27922-현대모비스입사프로젝트.cpp)|-|
 |497|BOJ|2512|예산|C++17|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-02512-예산.cpp)|-|
