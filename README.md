@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|504|BOJ|17521|Byte Coin|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-17521-ByteCoin.cpp)|-|
 |503|BOJ|2659|십자카드 문제|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-02659-십자카드문제.cpp)|-|
 |502|BOJ|25487|단순한 문제 (Large)|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-25487-단순한문제_Large.cpp)|-|
 |501|BOJ|5212|지구 온난화|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05212-지구온난화.cpp)|-|
