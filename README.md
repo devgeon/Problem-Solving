@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|513|BOJ|10994|별 찍기 - 19|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-10994-별찍기19.cpp)|-|
 |512|BOJ|2442|별 찍기 - 5|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02442-별찍기5.cpp)|-|
 |511|BOJ|5705|Hexagonal Tiles|C++17|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-05705-HexagonalTiles.cpp)|-|
 |510|BOJ|24228|젓가락|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-24228-젓가락.cpp)|-|
