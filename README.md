@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|515|BOJ|1766|문제집|C++17|AC|Topological Sort|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/Topological-Sort/BOJ-01766-문제집.cpp)|-|
 |514|BOJ|2448|별 찍기 - 11|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-02448-별찍기11.cpp)|-|
 |513|BOJ|10994|별 찍기 - 19|C++17|AC|Recursion|[link](https://github.com/devgeon/Problem-Solving/blob/main/Recursion/BOJ-10994-별찍기19.cpp)|-|
 |512|BOJ|2442|별 찍기 - 5|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02442-별찍기5.cpp)|-|
