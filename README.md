@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|522|BOJ|30993|자동차 주차|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-30993-자동차주차.cpp)|-|
 |521|BOJ|16953|A → B|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-16953-AtoB.cpp)|-|
 |520|BOJ|10816|숫자 카드 2|C++17|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-10816-숫자카드2.cpp)|-|
 |519|BOJ|13549|숨바꼭질 3|C++17|AC|0-1 BFS|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/0-1_BFS/BOJ-13549-숨바꼭질3.cpp)|-|
