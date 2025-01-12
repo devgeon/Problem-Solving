@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|525|BOJ|13241|최소공배수|C++17|AC|Euclidean|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-13241-최소공배수.cpp)|-|
 |524|BOJ|14674|STOP USING MONEY|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-14674-STOPUSINGMONEY.cpp)|-|
 |523|BOJ|24755|Election Paradox|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-24755-ElectionParadox.cpp)|-|
 |522|BOJ|30993|자동차 주차|C++17|AC|Combinatorics|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Combinatorics/BOJ-30993-자동차주차.cpp)|-|
