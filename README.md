@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|527|BOJ|2669|직사각형 네개의 합집합의 면적 구하기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02669-직사각형네개의합집합의면적구하기.cpp)|-|
 |526|BOJ|1455|뒤집기 II|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-01455-뒤집기2.cpp)|-|
 |525|BOJ|13241|최소공배수|C++17|AC|Euclidean|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-13241-최소공배수.cpp)|-|
 |524|BOJ|14674|STOP USING MONEY|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-14674-STOPUSINGMONEY.cpp)|-|
