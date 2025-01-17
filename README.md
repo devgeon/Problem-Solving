@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|530|BOJ|32871|돌 게임 nm|Java 11|AC|Game Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-32871-돌게임nm.java)|-|
 |529|BOJ|17877|Integer Division|Java 11|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-17877-IntegerDivision.java)|-|
 |528|BOJ|2063|철사 연결|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-02063-철사연결.cpp)|-|
 |527|BOJ|2669|직사각형 네개의 합집합의 면적 구하기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02669-직사각형네개의합집합의면적구하기.cpp)|-|
