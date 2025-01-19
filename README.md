@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|532|BOJ|25644|최대 상승|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25644-최대상승.java)|-|
 |531|BOJ|16162|가희와 3단 고음|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-16162-가희와3단고음.java)|-|
 |530|BOJ|32871|돌 게임 nm|Java 11|AC|Game Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-32871-돌게임nm.java)|-|
 |529|BOJ|17877|Integer Division|Java 11|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-17877-IntegerDivision.java)|-|
