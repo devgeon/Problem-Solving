@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|534|BOJ|28115|등차수열의 합|Java 11|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-28115-등차수열의합.java)|-|
 |533|BOJ|2018|수들의 합 5|Java 11|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-02018-수들의합5.java)|-|
 |532|BOJ|25644|최대 상승|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-25644-최대상승.java)|-|
 |531|BOJ|16162|가희와 3단 고음|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-16162-가희와3단고음.java)|-|
