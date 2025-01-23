@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|536|BOJ|17828|문자열 화폐|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-17828-문자열화폐.java)|-|
 |535|BOJ|17292|바둑이 포커|Java 11|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-17292-바둑이포커.java)|-|
 |534|BOJ|28115|등차수열의 합|Java 11|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-28115-등차수열의합.java)|-|
 |533|BOJ|2018|수들의 합 5|Java 11|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-02018-수들의합5.java)|-|
