@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|542|BOJ|20256|Right-Coupled Numbers|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-20256-RightCoupledNumbers.java)|-|
 |541|BOJ|2042|구간 합 구하기|Java 11|AC|Segment Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Segment-Tree/BOJ-02042-구간합구하기.java)|-|
 |540|BOJ|1895|필터|Java 11|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-01895-필터.java)|-|
 |539|BOJ|15860|Ninety-nine|Java 11|AC|Randomization|[link](https://github.com/devgeon/Problem-Solving/blob/main/Randomization/BOJ-15860-NinetyNine.java)|-|
