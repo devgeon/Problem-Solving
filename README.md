@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|546|BOJ|1999|최대최소|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-01999-최대최소.java)|-|
 |545|BOJ|2116|주사위 쌓기|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-02116-주사위쌓기.java)|-|
 |544|BOJ|1623|신년 파티|Java 11|AC|DP on Trees|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/DP-Tree/BOJ-01623-신년파티.java)|-|
 |543|BOJ|16946|벽 부수고 이동하기 4|Java 11|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-16946-벽부수고이동하기4.java)|-|
