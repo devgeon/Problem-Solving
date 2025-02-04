@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|551|BOJ|28075|스파이|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-28075-스파이.java)|-|
 |550|BOJ|24239|Coins|Java 11|AC|Game Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-24239-Coins.java)|-|
 |549|BOJ|4620|Pascal's Travels|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-04620-PascalsTravels.java)|-|
 |548|BOJ|10942|팰린드롬?|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-10942-팰린드롬.java)|-|
