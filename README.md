@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|556|BOJ|13628|Triangles|Java 11|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-13628-Triangles.java)|-|
 |555|BOJ|6059|Pasture Walking|Java 11|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-06059-PastureWalking.java)|-|
 |554|BOJ|9879|Cross Country Skiing|Java 11|AC|MST(Prim)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Minimum-Spanning-Tree/BOJ-09879-CrossCountrySkiing.java)|-|
 |553|BOJ|4677|Oil Deposits|Java 11|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-04677-OilDeposits.java)|-|
