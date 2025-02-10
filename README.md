@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|558|BOJ|1094|막대기|Java 11|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-01094-막대기.java)|-|
 |557|BOJ|18382|2048|Java 11|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-18382-2048.java)|-|
 |556|BOJ|13628|Triangles|Java 11|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-13628-Triangles.java)|-|
 |555|BOJ|6059|Pasture Walking|Java 11|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-06059-PastureWalking.java)|-|
