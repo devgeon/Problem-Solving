@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|564|BOJ|12913|매직 포션|Java 11|AC|Dijkstra|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Dijkstra/BOJ-12913-매직포션.java)|-|
 |563|BOJ|32531|래환이의 수강신청 대작전|Java 11|AC|Bitmask|[link](https://github.com/devgeon/Problem-Solving/blob/main/Bitmask/BOJ-32531-래환이의수강신청대작전.java)|-|
 |562|BOJ|28420|카더가든|Java 11|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-28420-카더가든.java)|-|
 |561|BOJ|2342|Dance Dance Revolution|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02342-DanceDanceRevolution.java)|-|
