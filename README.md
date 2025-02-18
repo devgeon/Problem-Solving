@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|566|BOJ|26005|나뭇잎 학회|Java 11|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-26005-나뭇잎학회.java)|-|
 |565|BOJ|1476|날짜 계산|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01476-날짜계산.java)|-|
 |564|BOJ|12913|매직 포션|Java 11|AC|Dijkstra|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Dijkstra/BOJ-12913-매직포션.java)|-|
 |563|BOJ|32531|래환이의 수강신청 대작전|Java 11|AC|Bitmask|[link](https://github.com/devgeon/Problem-Solving/blob/main/Bitmask/BOJ-32531-래환이의수강신청대작전.java)|-|
