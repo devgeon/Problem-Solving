@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|573|BOJ|13702|이상한 술집|Java 11|AC|Binary Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Search/Binary-Search/BOJ-13702-이상한술집.java)|-|
 |572|BOJ|17265|나의 인생에는 수학과 함께|Java 11|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-17265-나의인생에는수학과함께.java)|-|
 |571|BOJ|2694|합이 같은 구간|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-02694-합이같은구간.java)|-|
 |570|BOJ|14653|너의 이름은|Java 11|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-14653-너의이름은.java)|-|
