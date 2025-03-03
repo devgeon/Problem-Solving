@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|578|BOJ|1652|누울 자리를 찾아라|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01652-누울자리를찾아라.java)|-|
 |577|BOJ|3088|화분 부수기|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-03088-화분부수기.java)|-|
 |576|BOJ|23081|오델로|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-23081-오델로.java)|-|
 |575|BOJ|32344|유물 발굴|Java 11|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-32344-유물발굴.java)|-|
