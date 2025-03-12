@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|587|BOJ|7604|Reconstruction Trees|Java 11|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/BOJ-07604-ReconstructionTrees.java)|-|
 |586|BOJ|1316|그룹 단어 체커|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01316-그룹단어체커.java)|-|
 |585|BOJ|1854|K번째 최단경로 찾기|Java 11|AC|Dijkstra|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Dijkstra/BOJ-01854-K번째최단경로찾기.java)|-|
 |584|BOJ|10867|중복 빼고 정렬하기|Java 11|AC|Binary Search Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Binary-Search-Tree/BOJ-10867-중복빼고정렬하기.java)|-|
