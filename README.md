@@ -38,7 +38,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |571|BOJ|2694|합이 같은 구간|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-02694-합이같은구간.java)|-|
 |570|BOJ|14653|너의 이름은|Java 11|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-14653-너의이름은.java)|-|
 |569|BOJ|2473|세 용액|Java 11|AC|Two Pointer|[link](https://github.com/devgeon/Problem-Solving/blob/main/Two-Pointer/BOJ-02473-세용액.java)|-|
-|568|BOJ|1647|도시 분할 계획|Java 11|AC|MST(Kruskal)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Minimum-Spanning-Tree/BOJ-01647-도시분할계획.java)|-|
+|568|BOJ|1647|도시 분할 계획|Java 11|AC|MST(Kruskal)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/Minimum-Spanning-Tree/BOJ-01647-도시분할계획.java)|-|
 |567|BOJ|27725|지수를 더하자|Java 11|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-27725-지수를더하자.java)|-|
 |566|BOJ|26005|나뭇잎 학회|Java 11|AC|Ad Hoc|[link](https://github.com/devgeon/Problem-Solving/blob/main/Ad-Hoc/BOJ-26005-나뭇잎학회.java)|-|
 |565|BOJ|1476|날짜 계산|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01476-날짜계산.java)|-|
@@ -52,7 +52,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |557|BOJ|18382|2048|Java 11|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-18382-2048.java)|-|
 |556|BOJ|13628|Triangles|Java 11|AC|Prefix Sum|[link](https://github.com/devgeon/Problem-Solving/blob/main/Prefix-Sum/BOJ-13628-Triangles.java)|-|
 |555|BOJ|6059|Pasture Walking|Java 11|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-06059-PastureWalking.java)|-|
-|554|BOJ|9879|Cross Country Skiing|Java 11|AC|MST(Prim)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Minimum-Spanning-Tree/BOJ-09879-CrossCountrySkiing.java)|-|
+|554|BOJ|9879|Cross Country Skiing|Java 11|AC|MST(Prim)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/Minimum-Spanning-Tree/BOJ-09879-CrossCountrySkiing.java)|-|
 |553|BOJ|4677|Oil Deposits|Java 11|AC|Depth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Depth-First-Search/BOJ-04677-OilDeposits.java)|-|
 |552|BOJ|15387|Go Go Go Special Action Force!|Java 11|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-15387-GoGoGoSpecialActionForce.java)|-|
 |551|BOJ|28075|스파이|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-28075-스파이.java)|-|
@@ -274,7 +274,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |335|BOJ|1297|TV 크기|C++17|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-01297-TV크기.cpp)|-|
 |334|BOJ|26021|K.O. Kids|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-26021-KOKids.cpp)|-|
 |333|BOJ|26015|Enjoyable Entree|C++17|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-26015-EnjoyableEntree.cpp)|-|
-|332|BOJ|26013|Chaotic Construction|C++17|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Tree/BOJ-26013-ChaoticConstruction.cpp)|-|
+|332|BOJ|26013|Chaotic Construction|C++17|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/BOJ-26013-ChaoticConstruction.cpp)|-|
 |331|BOJ|28065|SW 수열 구하기|C++17|AC|Constructive|[link](https://github.com/devgeon/Problem-Solving/blob/main/Constructive/BOJ-28065-SW수열구하기.cpp)|-|
 |330|BOJ|18258|큐 2|C++17|AC|Queue|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Queue/BOJ-18258-큐2.cpp)|-|
 |329|BOJ|1515|수 이어 쓰기|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-01515-수이어쓰기.cpp)|-|
@@ -300,7 +300,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |309|BOJ|9372|상근이의 여행|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-09372-상근이의여행.cpp)|-|
 |308|BOJ|29198|이번에는 C번이 문자열|C++17|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-29198-이번에는C번이문자열.cpp)|-|
 |307|BOJ|1753|최단경로|C++17|AC|Dijkstra|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Shortest-Path/Dijkstra/BOJ-01753-최단경로.cpp)|-|
-|306|BOJ|1197|최소 스패닝 트리|C++17|AC|MST(Kruskal)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Minimum-Spanning-Tree/BOJ-01197-최소스패닝트리.cpp)|-|
+|306|BOJ|1197|최소 스패닝 트리|C++17|AC|MST(Kruskal)|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/Minimum-Spanning-Tree/BOJ-01197-최소스패닝트리.cpp)|-|
 |305|BOJ|1976|여행 가자|C++17|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-01976-여행가자.cpp)|-|
 |304|BOJ|20920|영단어 암기는 괴로워|C++17|AC|Hash Map|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-20920-영단어암기는어려워.cpp)|-|
 |303|BOJ|1949|우수 마을|C++17|AC|DP on Trees|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/DP-Tree/BOJ-01949-우수마을.cpp)|-|
@@ -466,7 +466,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |143|BOJ|2526|싸이클|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02526-싸이클.cpp)|-|
 |142|BOJ|14675|단절점과 단절선|C++17|AC|Graph Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/BOJ-14675-단절점과단절선.cpp)|-|
 |141|BOJ|2477|참외밭|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02477-참외밭.py)|-|
-|140|BOJ|1991|트리 순회|C++17|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Tree/BOJ-01991-트리순회.cpp)|-|
+|140|BOJ|1991|트리 순회|C++17|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/BOJ-01991-트리순회.cpp)|-|
 |139|BOJ|1924|2007년|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-01924-2007년.cpp)|-|
 |138|BOJ|2775|부녀회장이 될테야|Java 11|AC|Dynamic Programming|[link](https://github.com/devgeon/Problem-Solving/blob/main/Dynamic-Programming/BOJ-02775-부녀회장이될테야.java)|-|
 |137|BOJ|2292|벌집|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-02292-벌집.java)|-|
