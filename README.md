@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|591|BOJ|17826|나의 학점은?|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-17826-나의학점은.java)|-|
 |590|BOJ|7568|덩치|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-07568-덩치.java)|-|
 |589|BOJ|8611|팰린드롬 숫자|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-08611-팰린드롬숫자.java)|-|
 |588|BOJ|1439|뒤집기|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-01439-뒤집기.java)|-|
