@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|597|BOJ|6213|Balanced Lineup|Java 11|AC|Segment Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Segment-Tree/BOJ-06213-BalancedLineup.java)|-|
 |596|BOJ|18428|감시 피하기|Java 11|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-18428-감시피하기.java)|-|
 |595|BOJ|9693|시파르|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-09693-시파르.java)|-|
 |594|BOJ|12761|돌다리|Java 11|AC|Breadth First Search|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Breadth-First-Search/BOJ-12761-돌다리.java)|-|
