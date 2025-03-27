@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|600|BOJ|17266|어두운 굴다리|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-17266-어두운굴다리.java)|-|
 |599|BOJ|9015|정사각형|Java 11|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-09015-정사각형.java)|-|
 |598|BOJ|21918|전구|Java 11|AC|Simulation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-21918-전구.java)|-|
 |597|BOJ|6213|Balanced Lineup|Java 11|AC|Segment Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Segment-Tree/BOJ-06213-BalancedLineup.java)|-|
