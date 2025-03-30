@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|602|BOJ|25187|고인물이 싫어요|Java 11|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-25187-고인물이싫어요.java)|-|
 |601|BOJ|16957|체스판 위의 공|Java 11|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-16957-체스판위의공.java)|-|
 |600|BOJ|17266|어두운 굴다리|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-17266-어두운굴다리.java)|-|
 |599|BOJ|9015|정사각형|Java 11|AC|Geometry|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Geometry/BOJ-09015-정사각형.java)|-|
