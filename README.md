@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|604|BOJ|24830|Broken Calculator|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-24830-BrokenCalculator.java)|-|
 |603|BOJ|1342|행운의 문자열|Java 11|AC|Backtracking|[link](https://github.com/devgeon/Problem-Solving/blob/main/Backtracking/BOJ-01342-행운의문자열.java)|-|
 |602|BOJ|25187|고인물이 싫어요|Java 11|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-25187-고인물이싫어요.java)|-|
 |601|BOJ|16957|체스판 위의 공|Java 11|AC|Disjoint Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Disjoint-Set/BOJ-16957-체스판위의공.java)|-|
