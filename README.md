@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|610|BOJ|32281|유리구슬 (Glass Bead)|Java 11|AC|Math|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-32281-유리구슬.java)|-|
 |609|BOJ|32748|f(A + B)|Java 11|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-32748-f(ApB).java)|-|
 |608|BOJ|21600|계단|Java 11|AC|Greedy|[link](https://github.com/devgeon/Problem-Solving/blob/main/Greedy/BOJ-21600-계단.java)|-|
 |607|BOJ|11811|데스스타|Java 11|AC|Bitmask|[link](https://github.com/devgeon/Problem-Solving/blob/main/Bitmask/BOJ-11811-데스스타.java)|-|
