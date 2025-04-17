@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|622|BOJ|25972|도미노 무너트리기|C++17|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-25972-도미노무너트리기.cpp)|-|
 |621|BOJ|9656|돌 게임 2|Assembly|AC|Game Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/BOJ-09656-돌게임2.asm)|-|
 |620|BOJ|10870|피보나치 수 5|Assembly|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-10870-피보나치수5.asm)|-|
 |619|BOJ|17201|자석 체인|Assembly|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-17201-자석체인.asm)|-|
