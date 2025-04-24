@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|628|BOJ|6325|Definite Values|Python3|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-06325-DefiniteValues.py)|-|
 |627|BOJ|16462|'나교수' 교수님의 악필|Assembly|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-16462-나교수님의악필.asm)|-|
 |626|BOJ|4673|셀프 넘버|C++17|AC|Brute Force|[link](https://github.com/devgeon/Problem-Solving/blob/main/Brute-Force/BOJ-04673-셀프넘버.cpp)|-|
 |625|BOJ|21919|소수 최소 공배수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-21919-소수최소공배수.cpp)|-|
