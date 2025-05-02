@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|634|BOJ|5107|마니또|Python3|AC|Hash Set|[link](https://github.com/devgeon/Problem-Solving/blob/main/Data-Structure/Hash-Set/BOJ-05107-마니또.py)|-|
 |633|BOJ|2628|종이자르기|Python3|AC|Sorting|[link](https://github.com/devgeon/Problem-Solving/blob/main/Sorting/BOJ-02628-종이자르기.py)|-|
 |632|BOJ|5344|GCD|Python3|AC|Euclidean|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-05344-GCD.py)|-|
 |631|BOJ|32980|분리배출|Python3|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-32980-분리배출.py)|-|
