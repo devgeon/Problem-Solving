@@ -1,5 +1,5 @@
 # BOJ-32980 / 분리배출
-# devgeon, 2024.04.28, Python3
+# devgeon, 2025.04.28, Python3
 # https://www.acmicpc.net/problem/32980
 
 

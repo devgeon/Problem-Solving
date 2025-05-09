@@ -1,5 +1,5 @@
 // BOJ-04673 / 셀프 넘버
-// devgeon, 2024.04.22, C++17
+// devgeon, 2025.04.22, C++17
 // https://www.acmicpc.net/problem/4673
 
 #include <bitset>

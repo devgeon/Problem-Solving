@@ -1,5 +1,5 @@
 # BOJ-06325 / Definite Values
-# devgeon, 2024.04.24, Python3
+# devgeon, 2025.04.24, Python3
 # https://www.acmicpc.net/problem/6325
 
 

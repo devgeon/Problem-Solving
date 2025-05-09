@@ -1,5 +1,5 @@
 # BOJ-05344 / GCD
-# devgeon, 2024.04.30, Python3
+# devgeon, 2025.04.30, Python3
 # https://www.acmicpc.net/problem/5344
 
 

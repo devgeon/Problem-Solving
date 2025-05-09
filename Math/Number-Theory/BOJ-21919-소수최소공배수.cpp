@@ -1,5 +1,5 @@
 // BOJ-21919 / 소수 최소 공배수
-// devgeon, 2024.04.21, C++17
+// devgeon, 2025.04.21, C++17
 // https://www.acmicpc.net/problem/21919
 
 #include <algorithm>

@@ -1,5 +1,5 @@
 // BOJ-02161 / 카드1
-// devgeon, 2024.04.19, C++17
+// devgeon, 2025.04.19, C++17
 // https://www.acmicpc.net/problem/2161
 
 #include <algorithm>

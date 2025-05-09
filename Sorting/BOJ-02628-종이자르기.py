@@ -1,5 +1,5 @@
 # BOJ-02628 / 종이자르기
-# devgeon, 2024.05.01, Python3
+# devgeon, 2025.05.01, Python3
 # https://www.acmicpc.net/problem/2628
 
 

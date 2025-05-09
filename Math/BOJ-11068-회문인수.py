@@ -1,5 +1,5 @@
 # BOJ-11068 / 회문인 수
-# devgeon, 2024.04.27, Python3
+# devgeon, 2025.04.27, Python3
 # https://www.acmicpc.net/problem/11068
 
 

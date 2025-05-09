@@ -1,5 +1,5 @@
 // BOJ-25972 / 도미노 무너트리기
-// devgeon, 2024.04.17, C++17
+// devgeon, 2025.04.17, C++17
 // https://www.acmicpc.net/problem/25972
 
 #include <algorithm>

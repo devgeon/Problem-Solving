@@ -1,5 +1,5 @@
 # BOJ-05107 / 마니또
-# devgeon, 2024.05.02, Python3
+# devgeon, 2025.05.02, Python3
 # https://www.acmicpc.net/problem/5107
 
 
