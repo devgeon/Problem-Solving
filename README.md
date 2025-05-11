@@ -20,6 +20,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 ## 문제 목록
 ||출처|번호|제목|언어|채점<br />결과|알고리즘|소스<br />코드|코드<br />설명|
 |-|---|---|----|----|-------------|-------|-------------|--------------|
+|638|BOJ|2824|최대공약수|C++17|AC|Number Theory|[link](https://github.com/devgeon/Problem-Solving/blob/main/Math/Number-Theory/BOJ-02824-최대공약수.cpp)|-|
 |637|BOJ|15738|뒤집기|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-15738-뒤집기.cpp)|-|
 |636|BOJ|5556|타일|C++17|AC|Implementation|[link](https://github.com/devgeon/Problem-Solving/blob/main/Implementation/BOJ-05556-타일.cpp)|-|
 |635|BOJ|11203|Numbers On a Tree|C++17|AC|Tree|[link](https://github.com/devgeon/Problem-Solving/blob/main/Graphs/Tree/BOJ-11203-NumbersOnATree.cpp)|-|
