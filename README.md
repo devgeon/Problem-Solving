@@ -8,6 +8,7 @@ Online Judge 사이트 문제 풀이 소스코드를 정리해둔 저장소입�
 |이름|코드|아이디|
 |---|---|----|
 |Baekjoon|BOJ|devgeon|
+|Jungol|JOL|devgeon|
 |Codeforces|CDF|devgeon|
 
 ## 파일 정리
